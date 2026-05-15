@@ -1,0 +1,1001 @@
+Order_ID,Customer_Name,Category,Product,Region,Order_Date,Quantity,Price,Discount_%,Sales,Profit
+ORD00001,Susan Mendoza,Beauty,Lipstick,South,2024-01-29,2,213,15,426,118.81
+ORD00002,Lance Flores,Electronics,Laptop,West,2025-01-22,5,205,0,1025,96.4
+ORD00003,James Garner,Home & Kitchen,Chair,North,2024-09-28,2,137,0,274,54.74
+ORD00004,Stephen Tanner,Fashion,Jeans,West,2024-05-29,5,182,5,910,172.89
+ORD00005,Shannon Kemp,Sports,Cricket Bat,South,2025-04-16,3,649,0,1947,410.68
+ORD00006,Anthony Wilson,Beauty,Lipstick,East,2024-12-16,3,700,10,2100,290.92
+ORD00007,Kendra Phillips,Fashion,Shoes,West,2024-03-05,5,196,15,980,236.98
+ORD00008,Christina Mcdonald,Beauty,Face Wash,South,2024-08-03,2,927,10,1854,409.35
+ORD00009,John Edwards,Beauty,Perfume,North,2024-03-30,3,875,15,2625,159.62
+ORD00010,Jacob Landry,Sports,Cricket Bat,North,2025-05-11,5,931,5,4655,1394.21
+ORD00011,William Sosa,Sports,Dumbbells,North,2024-07-27,4,712,15,2848,442.8
+ORD00012,Daniel Davis,Home & Kitchen,Table Lamp,East,2024-07-12,1,530,0,530,121.97
+ORD00013,Matthew Matthews,Beauty,Moisturizer,West,2024-06-06,4,449,10,1796,314.89
+ORD00014,Debra Galloway,Fashion,T-Shirt,West,2024-09-25,1,430,5,430,81.05
+ORD00015,Megan Jackson,Sports,Yoga Mat,West,2024-04-23,3,649,10,1947,104.34
+ORD00016,Kelly Wheeler,Home & Kitchen,Chair,West,2024-12-05,1,295,5,295,77.23
+ORD00017,Jonathan Frazier,Sports,Dumbbells,East,2025-01-31,1,51,0,51,11.16
+ORD00018,Jesse Johnson MD,Home & Kitchen,Cookware,South,2025-04-01,5,103,10,515,35.4
+ORD00019,John Harris,Electronics,Laptop,East,2024-08-24,3,525,5,1575,192.07
+ORD00020,Daniel Price,Home & Kitchen,Cookware,East,2025-02-08,2,63,20,126,17.98
+ORD00021,Patricia Coffey,Fashion,T-Shirt,East,2025-05-12,3,73,0,219,36.22
+ORD00022,Robin Good,Electronics,Smartphone,West,2024-07-18,5,222,20,1110,229.0
+ORD00023,George Lewis,Sports,Cricket Bat,West,2025-03-16,1,799,5,799,222.17
+ORD00024,Emily Garcia,Home & Kitchen,Chair,West,2025-01-27,5,89,15,445,132.54
+ORD00025,Cynthia Weaver,Electronics,Smartphone,South,2024-03-10,1,367,10,367,25.87
+ORD00026,Glenn Snyder,Electronics,Laptop,North,2025-03-10,5,571,5,2855,246.62
+ORD00027,Sara Morris,Beauty,Perfume,South,2024-08-27,3,712,20,2136,437.47
+ORD00028,Kenneth Wilson,Fashion,Jacket,South,2024-10-15,5,468,20,2340,338.77
+ORD00029,Jordan Graham,Electronics,Smartwatch,West,2024-06-18,1,986,0,986,126.37
+ORD00030,Nicholas Campbell,Beauty,Face Wash,East,2024-11-25,3,138,20,414,124.06
+ORD00031,Charlene Fowler,Sports,Football,South,2025-03-04,1,287,10,287,64.36
+ORD00032,Connor West,Home & Kitchen,Mixer,West,2024-08-06,2,231,10,462,102.9
+ORD00033,Joseph Hale,Beauty,Face Wash,West,2024-02-26,2,722,5,1444,285.99
+ORD00034,David Leon,Beauty,Moisturizer,East,2025-01-30,4,578,0,2312,242.4
+ORD00035,Jennifer Maldonado,Fashion,Shoes,North,2024-02-06,2,218,10,436,43.81
+ORD00036,Jon Howard,Beauty,Lipstick,East,2024-09-29,1,986,20,986,125.61
+ORD00037,Mrs. Jamie Davenport MD,Electronics,Laptop,East,2024-11-17,5,617,10,3085,821.17
+ORD00038,Sergio Peters,Fashion,Jeans,West,2024-05-14,5,707,20,3535,402.47
+ORD00039,Jacob Collins,Beauty,Lipstick,South,2024-10-31,3,646,0,1938,350.46
+ORD00040,Melissa Beltran,Electronics,Laptop,North,2025-03-31,2,982,10,1964,490.59
+ORD00041,Kurt Massey,Home & Kitchen,Chair,North,2024-03-30,2,723,10,1446,304.05
+ORD00042,Kenneth Bernard,Sports,Football,West,2025-02-01,2,839,15,1678,148.63
+ORD00043,Jessica Hicks,Fashion,T-Shirt,East,2024-07-16,4,529,20,2116,543.74
+ORD00044,John Rodgers,Home & Kitchen,Chair,West,2025-03-28,3,810,20,2430,194.7
+ORD00045,Tyler Williamson,Sports,Yoga Mat,South,2024-04-09,2,266,0,532,108.77
+ORD00046,Shawn Miller,Sports,Dumbbells,North,2025-01-17,2,865,0,1730,254.78
+ORD00047,Dr. Derek Duncan,Electronics,Smartwatch,South,2024-05-03,2,449,0,898,118.56
+ORD00048,Betty Bates,Beauty,Face Wash,East,2024-12-01,5,925,0,4625,1026.24
+ORD00049,Tiffany Mason,Beauty,Face Wash,South,2025-02-14,5,923,5,4615,835.29
+ORD00050,Kevin Moran,Electronics,Headphones,East,2024-01-18,5,206,5,1030,271.33
+ORD00051,Tammy Henry,Electronics,Headphones,South,2024-10-06,2,870,20,1740,422.74
+ORD00052,Heather Li,Sports,Yoga Mat,East,2024-04-20,4,481,15,1924,468.97
+ORD00053,Sherry Rocha,Home & Kitchen,Table Lamp,South,2024-04-08,1,99,5,99,14.73
+ORD00054,Ethan Hamilton,Electronics,Headphones,South,2024-10-31,4,517,20,2068,413.46
+ORD00055,Patrick Crawford,Home & Kitchen,Table Lamp,West,2025-01-25,5,465,10,2325,567.19
+ORD00056,William Gonzales,Electronics,Smartwatch,South,2024-09-06,2,476,15,952,81.89
+ORD00057,David Lewis,Fashion,Shoes,South,2025-04-13,1,986,15,986,76.4
+ORD00058,Zoe Smith,Home & Kitchen,Mixer,West,2024-03-10,4,931,0,3724,480.71
+ORD00059,Brenda Davis,Home & Kitchen,Table Lamp,West,2024-12-28,3,655,0,1965,181.63
+ORD00060,Martha Colon,Sports,Yoga Mat,West,2024-06-24,1,829,0,829,80.29
+ORD00061,Danny Harper,Sports,Cricket Bat,West,2024-01-30,3,294,20,882,165.29
+ORD00062,Misty Kennedy,Electronics,Smartwatch,West,2024-12-25,2,156,0,312,90.44
+ORD00063,Gary Smith,Fashion,Jacket,South,2025-02-23,5,937,15,4685,398.18
+ORD00064,Robert Curtis,Electronics,Smartwatch,South,2024-12-11,1,492,20,492,67.65
+ORD00065,Benjamin Miller,Electronics,Smartphone,North,2025-02-23,2,987,10,1974,388.37
+ORD00066,Teresa Francis,Fashion,Jacket,South,2024-05-16,5,475,20,2375,680.29
+ORD00067,Justin Miller,Sports,Yoga Mat,North,2024-07-04,3,278,20,834,147.68
+ORD00068,Brent Zuniga,Fashion,T-Shirt,West,2024-09-01,3,245,5,735,129.93
+ORD00069,Ian Nelson,Sports,Dumbbells,East,2024-12-25,5,880,10,4400,634.45
+ORD00070,Kevin Martinez,Home & Kitchen,Cookware,West,2025-02-22,2,160,5,320,57.46
+ORD00071,George Banks,Electronics,Smartwatch,East,2024-06-25,2,600,5,1200,306.85
+ORD00072,Sean Lee,Electronics,Smartphone,North,2024-01-04,4,127,5,508,65.5
+ORD00073,Joe Martin,Home & Kitchen,Cookware,North,2025-02-09,5,847,10,4235,605.69
+ORD00074,Aaron Rodriguez,Home & Kitchen,Chair,North,2024-01-23,1,615,10,615,128.06
+ORD00075,Rebecca Francis,Home & Kitchen,Table Lamp,West,2025-03-07,5,937,5,4685,1052.9
+ORD00076,Leslie Williams,Home & Kitchen,Table Lamp,West,2025-04-20,1,832,10,832,71.19
+ORD00077,Trevor Oliver,Electronics,Headphones,North,2025-01-08,4,238,10,952,224.04
+ORD00078,Philip Crane,Home & Kitchen,Table Lamp,South,2024-05-03,2,951,5,1902,283.67
+ORD00079,Joan Garcia,Sports,Yoga Mat,South,2025-04-15,5,513,10,2565,363.99
+ORD00080,Pamela Smith,Sports,Dumbbells,West,2024-09-02,2,175,20,350,40.18
+ORD00081,Lauren Gordon,Electronics,Headphones,North,2024-01-11,3,373,5,1119,189.53
+ORD00082,Corey Weber,Sports,Cricket Bat,West,2025-03-21,2,373,20,746,37.61
+ORD00083,Gregory Kelly,Beauty,Perfume,East,2024-01-04,2,883,10,1766,188.94
+ORD00084,Patrick Wright,Sports,Football,West,2025-04-02,2,200,5,400,42.43
+ORD00085,Michelle Blair DDS,Fashion,Jacket,West,2024-11-06,5,778,0,3890,211.09
+ORD00086,Courtney Jones,Beauty,Lipstick,North,2025-02-23,4,370,5,1480,227.31
+ORD00087,Logan Castro,Fashion,Shoes,South,2024-09-16,1,273,15,273,55.48
+ORD00088,Kristina Pearson,Beauty,Perfume,West,2024-04-21,3,459,15,1377,239.68
+ORD00089,Mary Jefferson,Sports,Dumbbells,South,2024-09-30,2,821,10,1642,241.07
+ORD00090,Danielle Tate,Home & Kitchen,Mixer,West,2025-02-28,1,511,20,511,39.21
+ORD00091,Melissa Petersen,Home & Kitchen,Chair,East,2024-12-29,2,826,0,1652,83.71
+ORD00092,David Chase,Sports,Dumbbells,South,2024-08-13,4,465,5,1860,155.97
+ORD00093,Darren Russell,Beauty,Lipstick,North,2024-02-23,3,301,20,903,205.09
+ORD00094,Jennifer Hernandez,Home & Kitchen,Mixer,North,2024-01-17,4,59,10,236,64.64
+ORD00095,Melissa Phillips,Sports,Yoga Mat,East,2024-07-06,5,768,10,3840,1098.54
+ORD00096,Amanda Gilbert,Fashion,Jeans,North,2024-05-20,4,548,10,2192,405.33
+ORD00097,Gabriella Miller,Home & Kitchen,Mixer,North,2024-12-07,1,223,15,223,48.87
+ORD00098,Madison Anderson,Beauty,Perfume,East,2024-03-27,3,133,10,399,103.71
+ORD00099,Kimberly Mendoza,Home & Kitchen,Cookware,West,2024-01-20,4,924,15,3696,1064.95
+ORD00100,Sarah Mcdonald,Sports,Yoga Mat,North,2024-04-12,4,170,5,680,194.8
+ORD00101,Mark Dalton,Sports,Football,West,2024-07-23,3,361,5,1083,179.09
+ORD00102,Joel Wright,Sports,Dumbbells,West,2024-05-08,1,875,5,875,107.46
+ORD00103,Corey Johnson,Sports,Football,North,2024-03-16,3,144,0,432,89.46
+ORD00104,Michael Brown,Beauty,Moisturizer,South,2024-03-30,3,324,20,972,65.91
+ORD00105,Tonya Wilson,Fashion,T-Shirt,West,2024-04-15,1,454,0,454,32.18
+ORD00106,Christopher Perkins,Sports,Yoga Mat,South,2024-05-20,5,304,5,1520,349.75
+ORD00107,Annette Barton,Home & Kitchen,Cookware,South,2024-04-09,1,482,5,482,65.81
+ORD00108,Carol Rogers,Beauty,Lipstick,North,2024-12-14,5,22,5,110,18.7
+ORD00109,Dana Williams,Beauty,Moisturizer,West,2025-03-07,2,862,10,1724,399.5
+ORD00110,Tracey Wallace,Beauty,Face Wash,North,2024-08-12,4,495,10,1980,576.92
+ORD00111,Meghan Garcia,Beauty,Face Wash,North,2024-01-08,4,124,15,496,54.21
+ORD00112,Kyle Gallagher,Home & Kitchen,Table Lamp,East,2024-07-05,2,905,10,1810,299.01
+ORD00113,Krystal Owen,Sports,Cricket Bat,East,2024-05-21,4,976,5,3904,1098.08
+ORD00114,Deanna Yates,Electronics,Headphones,South,2024-12-16,3,185,5,555,97.35
+ORD00115,Amy Bond,Home & Kitchen,Cookware,East,2024-07-13,2,640,0,1280,86.22
+ORD00116,Robert Colon,Beauty,Moisturizer,East,2024-07-10,1,611,10,611,99.64
+ORD00117,Robin Williams,Fashion,T-Shirt,East,2025-03-29,1,490,10,490,110.13
+ORD00118,Rachel Case,Home & Kitchen,Cookware,West,2025-01-19,4,280,20,1120,310.45
+ORD00119,Dustin Hess,Fashion,Shoes,East,2024-07-30,3,182,20,546,76.69
+ORD00120,Wesley Buckley,Fashion,T-Shirt,West,2024-09-30,4,700,20,2800,428.43
+ORD00121,Jamie Bailey,Sports,Football,North,2024-03-25,4,614,0,2456,418.64
+ORD00122,Katherine Hill,Sports,Yoga Mat,North,2024-12-05,1,983,0,983,212.18
+ORD00123,Jennifer Castillo,Beauty,Face Wash,East,2025-04-08,3,756,5,2268,377.57
+ORD00124,Drew Phelps,Home & Kitchen,Chair,East,2025-02-26,5,720,15,3600,966.6
+ORD00125,Chad Mitchell,Sports,Dumbbells,North,2024-08-10,1,650,10,650,72.72
+ORD00126,James Bennett,Fashion,T-Shirt,East,2025-01-28,1,594,15,594,85.79
+ORD00127,Joseph Johnston,Beauty,Perfume,East,2024-05-02,1,542,10,542,72.62
+ORD00128,Tiffany Wilson,Beauty,Perfume,South,2024-09-16,3,1000,5,3000,506.29
+ORD00129,Jamie Garcia,Electronics,Headphones,North,2025-01-24,5,772,10,3860,882.72
+ORD00130,Christina Reeves,Fashion,Shoes,South,2024-08-28,5,141,0,705,104.4
+ORD00131,Amanda Russell,Home & Kitchen,Cookware,South,2025-03-27,2,492,15,984,55.01
+ORD00132,Monique Lewis,Beauty,Perfume,South,2024-06-30,1,423,10,423,73.13
+ORD00133,Shannon Gould,Fashion,Jeans,East,2024-11-17,1,712,15,712,171.14
+ORD00134,Janice Garcia,Electronics,Smartphone,East,2024-09-05,2,305,5,610,53.71
+ORD00135,Matthew Johnston,Beauty,Perfume,South,2024-06-04,3,992,0,2976,389.05
+ORD00136,Joshua Callahan,Electronics,Headphones,West,2024-09-17,3,888,5,2664,340.38
+ORD00137,Paul Weiss,Home & Kitchen,Mixer,South,2025-01-16,4,705,20,2820,308.98
+ORD00138,Jackie Ramirez,Fashion,T-Shirt,North,2024-06-18,4,608,15,2432,209.06
+ORD00139,William Salazar,Fashion,T-Shirt,North,2024-12-21,5,464,20,2320,158.07
+ORD00140,Andrew Stewart,Electronics,Headphones,South,2024-06-01,4,390,0,1560,82.82
+ORD00141,Kathryn Ritter,Fashion,Jeans,East,2024-09-07,4,726,0,2904,300.74
+ORD00142,Joseph Hendricks,Electronics,Smartphone,South,2025-04-15,4,752,10,3008,624.06
+ORD00143,Tiffany Weaver,Electronics,Laptop,South,2025-03-17,4,366,15,1464,317.61
+ORD00144,Diana White,Fashion,T-Shirt,South,2024-08-02,4,242,5,968,208.91
+ORD00145,Juan Smith,Sports,Cricket Bat,West,2024-07-20,5,666,20,3330,856.87
+ORD00146,Alexander Parker,Beauty,Perfume,West,2024-07-25,5,634,5,3170,565.08
+ORD00147,Sara Chapman,Sports,Cricket Bat,South,2024-01-17,3,141,5,423,117.56
+ORD00148,Jennifer Santos,Electronics,Smartwatch,South,2025-04-14,3,120,5,360,71.66
+ORD00149,James Nelson,Sports,Dumbbells,East,2025-04-18,2,879,0,1758,281.06
+ORD00150,Megan Davis,Beauty,Face Wash,West,2024-04-19,3,49,20,147,23.16
+ORD00151,Stephen Smith,Electronics,Laptop,West,2024-06-20,1,996,20,996,209.39
+ORD00152,Alex Carrillo,Electronics,Smartwatch,East,2024-11-30,3,441,0,1323,188.38
+ORD00153,Darlene Fritz,Sports,Dumbbells,North,2024-08-29,3,82,15,246,35.84
+ORD00154,John Brown,Home & Kitchen,Mixer,South,2024-03-28,4,510,15,2040,117.6
+ORD00155,Tracie Coleman,Beauty,Face Wash,West,2024-09-23,5,335,10,1675,277.28
+ORD00156,Jeffrey Miles,Fashion,T-Shirt,South,2024-05-16,1,572,10,572,124.56
+ORD00157,Heather Rojas,Beauty,Moisturizer,East,2024-07-30,5,780,5,3900,1081.72
+ORD00158,Lisa White,Sports,Football,West,2024-06-16,1,263,20,263,16.46
+ORD00159,Brendan Foley,Fashion,Jeans,North,2024-02-12,3,678,5,2034,509.23
+ORD00160,John Reynolds,Beauty,Lipstick,East,2024-02-18,4,811,15,3244,854.37
+ORD00161,Jenny Scott,Beauty,Moisturizer,West,2024-03-03,2,948,10,1896,534.53
+ORD00162,Katherine Alvarez,Fashion,T-Shirt,West,2024-11-21,2,163,10,326,77.88
+ORD00163,Robert Hays,Home & Kitchen,Table Lamp,North,2024-08-27,1,334,15,334,81.58
+ORD00164,Katherine Richardson,Beauty,Face Wash,North,2024-08-22,1,292,10,292,57.6
+ORD00165,Dwayne Jennings,Home & Kitchen,Chair,West,2025-05-02,1,228,5,228,17.81
+ORD00166,Justin Weiss,Fashion,T-Shirt,North,2024-11-19,4,863,10,3452,981.52
+ORD00167,Keith Moore,Beauty,Moisturizer,West,2024-08-15,1,754,0,754,71.13
+ORD00168,Melody Krause,Fashion,T-Shirt,South,2025-02-04,4,420,10,1680,389.25
+ORD00169,Brittney Thomas,Beauty,Moisturizer,North,2024-04-23,2,516,20,1032,241.05
+ORD00170,Ronald Ellis,Home & Kitchen,Cookware,North,2024-12-18,5,582,5,2910,237.04
+ORD00171,Bailey Larson,Beauty,Face Wash,West,2024-01-14,1,981,15,981,116.83
+ORD00172,Hannah Brown,Electronics,Smartwatch,West,2024-02-07,3,227,0,681,46.65
+ORD00173,Duane Bowman,Electronics,Laptop,North,2024-05-07,2,505,15,1010,241.32
+ORD00174,Brian Figueroa,Beauty,Lipstick,East,2024-01-12,5,444,10,2220,240.05
+ORD00175,Randy Barrett,Beauty,Lipstick,East,2024-12-28,4,416,10,1664,170.0
+ORD00176,James Taylor,Electronics,Smartphone,East,2025-03-27,2,308,10,616,89.01
+ORD00177,Gina Swanson,Beauty,Perfume,West,2024-12-22,5,48,15,240,35.34
+ORD00178,Destiny Schneider,Fashion,T-Shirt,South,2025-04-20,5,954,15,4770,635.38
+ORD00179,Anthony Medina MD,Home & Kitchen,Mixer,North,2024-01-06,1,474,5,474,38.89
+ORD00180,Allen Lopez,Beauty,Perfume,West,2025-03-09,4,396,5,1584,400.6
+ORD00181,Tanya Barber,Beauty,Perfume,South,2024-02-09,5,368,20,1840,227.45
+ORD00182,Lisa Green,Fashion,Jeans,South,2025-02-08,1,222,5,222,66.58
+ORD00183,Beth Wise,Beauty,Moisturizer,South,2024-04-11,1,748,0,748,197.38
+ORD00184,Lisa Simpson,Home & Kitchen,Chair,West,2024-09-04,1,990,10,990,248.91
+ORD00185,Melissa Stevens,Home & Kitchen,Chair,West,2024-02-25,2,577,20,1154,330.54
+ORD00186,Dennis Jordan,Beauty,Face Wash,North,2024-07-14,3,226,5,678,118.91
+ORD00187,Amy Colon,Fashion,Jeans,East,2025-04-01,5,850,20,4250,854.01
+ORD00188,Cassandra Schultz,Sports,Yoga Mat,South,2024-02-06,2,222,15,444,83.48
+ORD00189,Kelly Bullock,Beauty,Moisturizer,North,2024-10-08,1,859,10,859,51.87
+ORD00190,Sara Livingston,Electronics,Headphones,South,2024-02-01,4,933,10,3732,595.08
+ORD00191,Karen Pennington,Sports,Dumbbells,West,2024-11-06,4,868,10,3472,896.05
+ORD00192,Michael Braun,Sports,Cricket Bat,South,2025-02-11,4,188,0,752,67.41
+ORD00193,Renee Torres,Home & Kitchen,Chair,East,2024-06-19,3,866,5,2598,255.64
+ORD00194,Amanda Baker,Sports,Cricket Bat,East,2024-12-13,4,475,20,1900,113.59
+ORD00195,Shawn Snyder,Sports,Football,South,2024-05-03,5,372,5,1860,262.22
+ORD00196,Heather Holloway,Home & Kitchen,Cookware,North,2024-06-24,4,47,15,188,32.74
+ORD00197,Matthew Allison,Sports,Football,North,2024-11-18,5,91,15,455,113.17
+ORD00198,Jennifer Love,Fashion,Jacket,South,2025-04-12,5,193,20,965,195.46
+ORD00199,Vincent Heath,Beauty,Face Wash,North,2025-05-06,5,630,15,3150,740.31
+ORD00200,Lisa Ortiz,Home & Kitchen,Mixer,West,2025-04-03,3,186,10,558,60.91
+ORD00201,Luke Ruiz,Fashion,Jacket,North,2024-04-01,1,598,10,598,97.57
+ORD00202,Robin Lewis,Electronics,Headphones,East,2024-01-05,1,556,5,556,102.24
+ORD00203,Maurice Mooney,Fashion,T-Shirt,North,2024-12-17,2,448,15,896,159.31
+ORD00204,Sherri Joseph,Electronics,Laptop,North,2024-09-30,4,513,0,2052,541.9
+ORD00205,Phillip Johnson,Home & Kitchen,Table Lamp,West,2024-05-22,3,497,20,1491,340.86
+ORD00206,Melissa Smith,Home & Kitchen,Cookware,East,2025-04-19,5,705,20,3525,603.38
+ORD00207,Teresa Newman,Fashion,T-Shirt,West,2024-09-10,5,867,10,4335,369.1
+ORD00208,Nathaniel White,Fashion,Jeans,East,2024-05-21,3,961,20,2883,528.13
+ORD00209,Jeremy Russell,Beauty,Lipstick,North,2025-02-21,5,656,10,3280,607.93
+ORD00210,Joshua Wood,Sports,Dumbbells,South,2024-02-08,1,871,5,871,89.94
+ORD00211,Mark Williams,Home & Kitchen,Mixer,South,2025-05-10,5,698,20,3490,835.78
+ORD00212,Dennis Smith,Beauty,Face Wash,South,2025-03-03,3,640,5,1920,326.95
+ORD00213,Joshua Mitchell,Electronics,Headphones,North,2024-02-16,2,757,0,1514,416.0
+ORD00214,Thomas Howard,Electronics,Smartwatch,South,2025-01-20,4,740,10,2960,511.99
+ORD00215,Donna Wilson,Home & Kitchen,Table Lamp,West,2024-01-29,2,593,0,1186,71.53
+ORD00216,Monica Miller,Sports,Football,North,2024-08-18,1,486,20,486,79.83
+ORD00217,Joseph Hill,Electronics,Laptop,East,2025-04-03,3,86,5,258,73.11
+ORD00218,Deborah David,Sports,Cricket Bat,West,2024-12-26,4,300,20,1200,357.54
+ORD00219,Andrew Davidson,Fashion,T-Shirt,North,2024-08-02,3,413,20,1239,139.82
+ORD00220,Colin Rodriguez,Sports,Football,East,2024-08-08,3,900,10,2700,775.9
+ORD00221,Kathleen Owen,Electronics,Smartphone,South,2025-01-10,5,789,15,3945,391.08
+ORD00222,Laura Suarez DDS,Sports,Yoga Mat,South,2024-12-26,3,942,15,2826,481.17
+ORD00223,Brooke Porter,Electronics,Headphones,West,2024-03-04,2,847,10,1694,187.07
+ORD00224,Carolyn Sullivan,Sports,Cricket Bat,North,2024-12-19,3,413,15,1239,166.66
+ORD00225,Sharon Hill,Beauty,Lipstick,East,2024-10-07,2,916,5,1832,283.19
+ORD00226,Mr. Daniel Taylor MD,Electronics,Headphones,West,2024-06-23,2,488,0,976,232.44
+ORD00227,Michael Meadows,Sports,Cricket Bat,West,2024-01-17,2,885,15,1770,440.13
+ORD00228,Kevin Byrd,Fashion,T-Shirt,East,2025-04-20,5,796,5,3980,373.33
+ORD00229,Joshua Lin,Electronics,Headphones,North,2024-04-06,5,247,10,1235,141.31
+ORD00230,Kimberly Ramirez,Fashion,Shoes,North,2024-03-07,2,281,5,562,112.35
+ORD00231,Kevin Norris,Fashion,T-Shirt,South,2025-01-30,1,623,0,623,167.9
+ORD00232,Kelli Santiago,Beauty,Perfume,North,2024-07-03,3,419,0,1257,138.02
+ORD00233,Theresa Patterson,Home & Kitchen,Table Lamp,East,2024-04-09,3,663,0,1989,302.4
+ORD00234,Erik Reed,Fashion,Jeans,West,2024-01-28,1,91,5,91,15.39
+ORD00235,Doris Craig MD,Electronics,Smartphone,West,2025-03-10,2,589,15,1178,165.89
+ORD00236,Autumn Hansen,Sports,Cricket Bat,South,2025-03-22,2,660,20,1320,143.33
+ORD00237,Beth Petersen,Beauty,Moisturizer,North,2024-08-24,5,945,5,4725,1023.8
+ORD00238,Mary Mercado,Home & Kitchen,Table Lamp,West,2025-03-27,4,812,20,3248,368.93
+ORD00239,Pamela Walters,Sports,Yoga Mat,East,2024-02-16,4,94,15,376,33.97
+ORD00240,Jonathan Rice,Fashion,T-Shirt,West,2024-01-08,5,381,0,1905,111.01
+ORD00241,Brian Thompson,Fashion,T-Shirt,West,2024-07-20,2,214,10,428,89.66
+ORD00242,Paul Faulkner,Home & Kitchen,Chair,North,2024-12-22,5,85,10,425,92.01
+ORD00243,Michael Terry,Electronics,Smartphone,West,2024-05-01,2,395,5,790,86.39
+ORD00244,Danielle Patterson,Electronics,Laptop,South,2025-03-26,4,800,10,3200,233.78
+ORD00245,Laurie Richards,Electronics,Laptop,East,2024-09-04,5,577,20,2885,834.91
+ORD00246,Eric Vasquez DVM,Fashion,T-Shirt,North,2024-11-15,1,170,20,170,31.32
+ORD00247,Matthew Short,Fashion,Jacket,East,2024-04-25,3,502,0,1506,337.07
+ORD00248,James Freeman,Home & Kitchen,Mixer,West,2025-04-10,3,559,20,1677,337.44
+ORD00249,Joseph Castro,Beauty,Lipstick,East,2025-01-03,1,165,20,165,44.87
+ORD00250,Joshua Christensen,Electronics,Headphones,East,2024-05-12,4,793,0,3172,453.92
+ORD00251,Ashley Brown,Beauty,Moisturizer,South,2024-04-27,4,706,10,2824,143.8
+ORD00252,Ryan Lopez,Home & Kitchen,Table Lamp,East,2024-07-18,3,132,10,396,107.98
+ORD00253,Brian Fuller,Home & Kitchen,Cookware,North,2025-01-21,1,659,20,659,137.33
+ORD00254,Allison Osborn,Sports,Dumbbells,East,2025-01-21,5,783,10,3915,675.95
+ORD00255,Ryan Perez,Beauty,Face Wash,South,2025-03-24,4,984,20,3936,864.75
+ORD00256,Sandra Parker,Home & Kitchen,Mixer,South,2024-09-20,1,429,10,429,111.77
+ORD00257,Roger Wright,Beauty,Face Wash,East,2025-03-03,2,690,0,1380,205.89
+ORD00258,Nicole Terrell,Electronics,Laptop,South,2024-07-14,3,348,5,1044,138.23
+ORD00259,Andrew Schmidt,Fashion,Jeans,South,2024-06-17,2,41,20,82,22.75
+ORD00260,Theresa Key,Beauty,Perfume,East,2024-04-12,2,116,20,232,27.61
+ORD00261,Christina Cantu,Fashion,Jeans,North,2024-12-30,3,210,0,630,61.32
+ORD00262,Rebecca Larson,Beauty,Moisturizer,West,2024-07-08,1,259,5,259,43.8
+ORD00263,Mr. Scott Hicks Jr.,Beauty,Moisturizer,South,2024-04-10,4,152,10,608,169.57
+ORD00264,Mark Bowers,Home & Kitchen,Chair,North,2024-04-03,4,743,20,2972,473.07
+ORD00265,Shannon Mills,Sports,Yoga Mat,West,2024-07-22,4,635,15,2540,185.88
+ORD00266,Kelsey Henderson,Electronics,Laptop,South,2025-01-13,5,72,10,360,48.68
+ORD00267,Alexandria Taylor,Home & Kitchen,Table Lamp,North,2024-07-28,3,784,20,2352,376.96
+ORD00268,Elijah Garner,Fashion,Jacket,South,2025-02-05,3,810,20,2430,293.96
+ORD00269,Toni Williams,Electronics,Smartwatch,East,2024-02-15,4,595,15,2380,687.9
+ORD00270,Nicholas Monroe,Electronics,Smartphone,East,2025-03-05,5,1000,20,5000,361.96
+ORD00271,Michael Hall,Beauty,Perfume,East,2024-05-25,4,846,15,3384,698.73
+ORD00272,Diana Aguirre,Fashion,Jacket,East,2024-08-22,1,821,0,821,245.43
+ORD00273,Amanda Mclaughlin,Beauty,Perfume,North,2025-04-13,5,112,20,560,98.35
+ORD00274,Courtney Miles,Electronics,Laptop,North,2024-07-08,1,199,5,199,49.06
+ORD00275,Marie Lewis,Electronics,Laptop,West,2025-01-28,1,60,10,60,6.54
+ORD00276,Gabriel Hughes,Fashion,Shoes,North,2024-01-12,3,607,5,1821,236.18
+ORD00277,Jason Figueroa,Electronics,Laptop,South,2024-05-02,2,181,10,362,32.43
+ORD00278,Samantha Armstrong,Fashion,Jeans,South,2024-08-07,1,413,0,413,58.18
+ORD00279,Chad Snyder,Electronics,Smartphone,South,2024-02-08,2,299,5,598,50.03
+ORD00280,Cody Brewer,Beauty,Lipstick,South,2024-04-26,2,552,0,1104,155.56
+ORD00281,Michael Reed,Sports,Dumbbells,South,2024-06-29,5,775,15,3875,613.29
+ORD00282,Richard Garcia,Fashion,Shoes,West,2024-03-01,1,980,15,980,261.76
+ORD00283,Sarah Rodriguez,Fashion,Jeans,East,2025-01-21,2,978,15,1956,362.04
+ORD00284,Regina Frazier,Electronics,Smartphone,West,2024-11-06,4,266,5,1064,105.81
+ORD00285,Ryan Watson,Electronics,Smartphone,North,2024-03-04,4,889,5,3556,765.84
+ORD00286,Raymond Love,Fashion,Jacket,South,2024-08-13,1,242,5,242,62.42
+ORD00287,Hannah Smith,Fashion,Jacket,South,2025-02-26,3,256,20,768,195.61
+ORD00288,Joshua Hayes,Home & Kitchen,Table Lamp,East,2024-06-15,2,541,10,1082,236.32
+ORD00289,Sharon Decker,Home & Kitchen,Mixer,North,2024-12-10,4,88,15,352,58.04
+ORD00290,Eric Lane,Beauty,Moisturizer,West,2024-07-26,1,376,5,376,56.26
+ORD00291,Jacqueline Obrien,Beauty,Perfume,South,2024-06-08,3,849,0,2547,442.46
+ORD00292,Natalie Jenkins,Electronics,Smartphone,South,2025-01-19,2,709,20,1418,99.5
+ORD00293,Ashley Travis,Electronics,Headphones,North,2025-04-30,5,50,0,250,61.8
+ORD00294,William Gomez,Fashion,Jeans,East,2024-06-21,4,784,15,3136,630.62
+ORD00295,Danielle Erickson,Fashion,Jacket,West,2024-04-11,5,976,20,4880,1448.71
+ORD00296,Dr. Carrie Taylor,Sports,Dumbbells,West,2024-09-21,3,831,5,2493,517.86
+ORD00297,Sara Rogers,Electronics,Smartwatch,North,2024-01-03,5,746,15,3730,397.09
+ORD00298,Lawrence Russell,Electronics,Smartwatch,North,2024-06-24,1,247,10,247,52.12
+ORD00299,Jessica Barrett,Home & Kitchen,Cookware,South,2024-10-06,5,789,5,3945,359.88
+ORD00300,Shirley Robinson,Sports,Cricket Bat,South,2025-04-21,3,131,10,393,69.83
+ORD00301,Catherine Jackson,Home & Kitchen,Mixer,South,2025-03-13,4,189,5,756,87.95
+ORD00302,Kayla Green,Home & Kitchen,Mixer,North,2024-10-04,5,777,5,3885,979.71
+ORD00303,Alex Davis,Sports,Dumbbells,North,2024-10-30,5,223,0,1115,135.29
+ORD00304,Kelly Gregory,Sports,Dumbbells,North,2024-08-27,5,267,20,1335,179.16
+ORD00305,Erica Bradshaw,Fashion,Shoes,South,2024-01-25,2,533,10,1066,251.62
+ORD00306,Charles Cox,Sports,Yoga Mat,North,2025-04-05,5,408,0,2040,366.25
+ORD00307,Kathleen Watson,Beauty,Moisturizer,North,2024-05-11,2,533,0,1066,60.52
+ORD00308,Michael Richards,Home & Kitchen,Table Lamp,North,2025-02-05,2,796,10,1592,190.98
+ORD00309,Dennis Copeland,Beauty,Lipstick,West,2024-07-18,1,393,5,393,66.51
+ORD00310,Linda Owens,Fashion,Jacket,West,2025-01-01,5,510,5,2550,483.69
+ORD00311,Chad French,Fashion,Shoes,North,2024-03-24,4,747,10,2988,567.83
+ORD00312,Christina Rhodes,Home & Kitchen,Table Lamp,South,2024-12-05,3,407,20,1221,74.25
+ORD00313,Paul Moss,Beauty,Face Wash,South,2024-01-15,4,914,0,3656,461.47
+ORD00314,Amber Lynch,Sports,Yoga Mat,West,2024-07-24,1,201,10,201,25.44
+ORD00315,Justin Taylor DDS,Electronics,Smartphone,East,2024-08-18,4,375,0,1500,377.95
+ORD00316,Debra Haynes,Home & Kitchen,Cookware,West,2024-06-28,4,774,0,3096,794.89
+ORD00317,Alexandra Martinez,Sports,Cricket Bat,East,2024-01-20,5,746,5,3730,454.03
+ORD00318,Todd Sutton,Beauty,Perfume,West,2025-03-19,4,306,20,1224,157.66
+ORD00319,Karla Howard,Fashion,Shoes,East,2024-06-16,5,604,0,3020,778.11
+ORD00320,Helen Mcneil,Fashion,Shoes,South,2024-05-23,5,114,20,570,34.08
+ORD00321,Lauren Hobbs,Fashion,Jacket,West,2024-10-10,5,349,5,1745,431.97
+ORD00322,James Delacruz,Beauty,Moisturizer,South,2025-01-11,3,296,10,888,217.66
+ORD00323,Abigail Williams,Beauty,Perfume,South,2024-09-20,4,587,10,2348,410.06
+ORD00324,Jessica Hernandez,Electronics,Smartphone,North,2025-05-10,3,916,0,2748,140.59
+ORD00325,Elizabeth Jackson,Beauty,Lipstick,South,2024-12-09,5,303,20,1515,449.92
+ORD00326,Andrea Banks,Home & Kitchen,Mixer,South,2024-11-02,5,163,0,815,131.09
+ORD00327,Jessica Garcia,Beauty,Lipstick,North,2024-02-26,5,278,15,1390,345.74
+ORD00328,Melissa Jones PhD,Fashion,Jacket,South,2024-03-15,3,936,10,2808,367.38
+ORD00329,Stacey Rivera,Beauty,Moisturizer,West,2025-05-07,1,659,5,659,187.21
+ORD00330,Jeffrey Cline,Home & Kitchen,Chair,South,2024-04-20,1,476,0,476,106.42
+ORD00331,Chase Hodges,Electronics,Laptop,North,2025-03-03,1,531,5,531,137.78
+ORD00332,Samantha Lewis,Beauty,Moisturizer,South,2025-02-02,1,570,15,570,154.07
+ORD00333,Shelby Nichols,Electronics,Smartwatch,South,2024-06-29,3,245,0,735,206.48
+ORD00334,Suzanne Ford,Fashion,T-Shirt,South,2025-05-15,5,718,5,3590,694.16
+ORD00335,Kaitlyn Grant,Home & Kitchen,Cookware,East,2025-04-07,2,831,10,1662,320.52
+ORD00336,Stacy Brown,Beauty,Moisturizer,East,2024-11-28,3,577,15,1731,359.09
+ORD00337,Christopher Howell,Home & Kitchen,Chair,South,2024-11-16,2,323,15,646,59.5
+ORD00338,Kristen Greer,Fashion,Jeans,North,2024-01-12,5,230,15,1150,229.6
+ORD00339,Donald Meyers,Electronics,Smartwatch,East,2024-06-10,3,810,0,2430,422.48
+ORD00340,Laura Woods,Fashion,T-Shirt,East,2024-05-08,3,371,15,1113,272.68
+ORD00341,Christopher Lee,Home & Kitchen,Mixer,West,2024-05-24,1,148,5,148,20.95
+ORD00342,Steven Schultz,Home & Kitchen,Mixer,West,2025-04-21,4,614,15,2456,140.89
+ORD00343,Dustin Dean MD,Fashion,T-Shirt,South,2024-02-28,2,869,20,1738,521.08
+ORD00344,Karen Campbell,Beauty,Lipstick,South,2024-07-19,2,35,20,70,8.54
+ORD00345,Kimberly Wright,Sports,Yoga Mat,South,2024-04-13,2,803,10,1606,174.7
+ORD00346,Kristin Weiss,Electronics,Headphones,West,2024-08-28,4,341,15,1364,364.77
+ORD00347,Katelyn Cook,Sports,Yoga Mat,East,2025-02-24,1,783,0,783,205.86
+ORD00348,Michael Kelley,Fashion,Jeans,West,2024-02-17,5,444,20,2220,370.18
+ORD00349,Stephanie Campbell,Home & Kitchen,Chair,East,2024-06-20,2,460,0,920,83.36
+ORD00350,Kristin Travis,Fashion,Jacket,West,2025-01-04,3,619,5,1857,489.66
+ORD00351,Richard Williams,Sports,Cricket Bat,East,2024-05-08,3,295,15,885,210.68
+ORD00352,Robert Edwards,Beauty,Face Wash,West,2025-01-01,3,323,5,969,262.72
+ORD00353,Angela Jenkins,Fashion,Jacket,East,2024-06-25,5,246,0,1230,353.6
+ORD00354,Fernando Jones,Fashion,Shoes,East,2024-06-28,4,491,20,1964,212.74
+ORD00355,James Williamson,Fashion,Jacket,West,2025-04-30,5,26,0,130,34.18
+ORD00356,Kelly Hernandez,Sports,Yoga Mat,West,2024-08-14,3,427,20,1281,337.03
+ORD00357,Matthew Williams,Fashion,T-Shirt,East,2024-02-11,3,479,15,1437,188.65
+ORD00358,Jennifer Robinson,Home & Kitchen,Mixer,North,2024-02-17,3,724,0,2172,593.62
+ORD00359,Heather Cardenas,Beauty,Lipstick,South,2024-08-27,1,930,0,930,70.84
+ORD00360,Krystal Medina,Fashion,Jacket,South,2025-05-13,5,933,0,4665,1317.69
+ORD00361,Dr. Mary Diaz MD,Fashion,Jacket,South,2024-11-30,5,579,0,2895,258.77
+ORD00362,Ian Tucker,Electronics,Headphones,North,2024-07-14,5,291,10,1455,424.51
+ORD00363,Andrew Walker,Beauty,Face Wash,East,2024-08-16,1,937,20,937,259.58
+ORD00364,Bruce Hopkins,Sports,Dumbbells,South,2025-02-26,1,36,10,36,7.2
+ORD00365,Bryan Phillips,Beauty,Face Wash,West,2024-03-26,4,229,20,916,65.41
+ORD00366,Stephanie Anderson,Sports,Yoga Mat,South,2024-10-04,2,78,15,156,12.51
+ORD00367,Aaron Taylor,Beauty,Face Wash,North,2024-05-04,5,972,5,4860,613.63
+ORD00368,Christina Watson,Electronics,Smartphone,South,2024-10-13,1,468,5,468,79.68
+ORD00369,Tiffany Martin,Sports,Cricket Bat,South,2024-07-24,5,696,10,3480,586.34
+ORD00370,Mark Robinson,Home & Kitchen,Table Lamp,North,2024-09-14,1,833,5,833,55.88
+ORD00371,Dale Marshall,Electronics,Headphones,East,2024-02-17,4,31,10,124,31.86
+ORD00372,Anthony Campbell,Beauty,Moisturizer,South,2024-12-23,3,509,15,1527,263.35
+ORD00373,Thomas Allen,Home & Kitchen,Chair,East,2024-02-19,4,286,15,1144,71.61
+ORD00374,Teresa Hahn,Home & Kitchen,Mixer,East,2024-10-20,3,810,20,2430,628.5
+ORD00375,Brittney Lee,Fashion,Jeans,North,2024-07-26,3,385,10,1155,268.9
+ORD00376,Linda Ray,Beauty,Perfume,South,2025-01-01,2,648,20,1296,74.17
+ORD00377,Elizabeth Wu,Fashion,Jacket,East,2024-05-12,5,468,15,2340,201.29
+ORD00378,Gerald Solis,Beauty,Face Wash,West,2025-02-11,4,934,20,3736,630.19
+ORD00379,Elizabeth Smith,Fashion,T-Shirt,North,2025-04-17,3,265,0,795,93.09
+ORD00380,Leslie Fischer,Home & Kitchen,Cookware,North,2024-06-30,2,492,15,984,195.01
+ORD00381,John Scott,Electronics,Headphones,West,2024-02-23,2,187,10,374,71.66
+ORD00382,Sarah Lewis,Fashion,Shoes,East,2024-12-13,1,687,10,687,159.0
+ORD00383,Michael Gentry,Fashion,Jeans,West,2025-02-17,4,928,10,3712,632.18
+ORD00384,Lydia Grant,Home & Kitchen,Mixer,South,2024-11-16,1,280,0,280,62.29
+ORD00385,James Sharp,Sports,Dumbbells,West,2024-09-10,4,121,5,484,125.94
+ORD00386,Marilyn Rios,Sports,Football,North,2025-02-12,4,759,5,3036,254.46
+ORD00387,Matthew Schneider,Fashion,Jeans,West,2024-07-07,5,936,10,4680,892.03
+ORD00388,Christopher Ortiz,Fashion,Shoes,East,2025-05-05,5,819,10,4095,854.59
+ORD00389,Scott Norman,Sports,Yoga Mat,West,2025-03-04,4,944,0,3776,443.24
+ORD00390,Kyle Rodriguez,Sports,Yoga Mat,East,2024-05-17,4,396,20,1584,255.5
+ORD00391,Joseph Glenn,Fashion,Jacket,North,2024-07-18,5,424,20,2120,296.24
+ORD00392,Jessica Jones,Fashion,T-Shirt,North,2024-07-27,4,883,5,3532,1015.15
+ORD00393,Heidi Anderson,Beauty,Face Wash,South,2024-03-01,5,922,15,4610,879.0
+ORD00394,Teresa Hogan,Sports,Yoga Mat,North,2024-05-16,1,789,5,789,111.2
+ORD00395,Carol Montes,Electronics,Laptop,West,2025-01-26,1,161,5,161,44.26
+ORD00396,Jordan Crawford,Sports,Dumbbells,West,2024-05-23,3,534,20,1602,96.6
+ORD00397,Tonya Barnett,Beauty,Perfume,East,2024-01-14,2,192,20,384,73.5
+ORD00398,Thomas Gardner,Fashion,T-Shirt,West,2024-10-22,4,445,15,1780,239.73
+ORD00399,Patrick Fox,Electronics,Smartwatch,North,2025-01-08,2,209,5,418,48.92
+ORD00400,Joseph Shelton,Beauty,Lipstick,South,2024-12-01,1,614,15,614,145.79
+ORD00401,Nicholas Jacobs,Beauty,Perfume,North,2025-03-01,2,465,15,930,255.88
+ORD00402,Erica Burns,Home & Kitchen,Chair,North,2024-08-20,4,359,20,1436,89.59
+ORD00403,Gloria Harris,Home & Kitchen,Mixer,South,2025-03-30,4,655,5,2620,170.42
+ORD00404,Cynthia Smith,Fashion,Shoes,North,2025-03-19,5,810,5,4050,331.87
+ORD00405,Christopher King,Beauty,Perfume,East,2024-09-04,4,171,20,684,66.68
+ORD00406,Robert Collins,Beauty,Perfume,South,2024-06-20,5,283,20,1415,309.3
+ORD00407,William Acosta,Fashion,T-Shirt,North,2025-03-16,4,536,10,2144,417.68
+ORD00408,Pamela Watts,Electronics,Smartphone,East,2025-04-04,5,445,20,2225,306.65
+ORD00409,Danielle Brown,Sports,Yoga Mat,West,2024-04-02,1,927,0,927,94.4
+ORD00410,Donald Heath,Sports,Dumbbells,East,2024-03-18,2,405,5,810,208.51
+ORD00411,Timothy Cruz,Fashion,Jeans,West,2024-01-24,1,351,0,351,29.3
+ORD00412,Tamara Massey,Beauty,Moisturizer,East,2024-02-29,1,102,0,102,17.75
+ORD00413,Robert Ellison,Fashion,Jeans,East,2024-08-31,3,640,0,1920,448.14
+ORD00414,Danielle Gordon,Beauty,Moisturizer,East,2025-05-09,5,216,20,1080,78.92
+ORD00415,Billy Alvarez,Beauty,Perfume,West,2024-06-28,5,688,0,3440,583.41
+ORD00416,Lori Mills,Beauty,Moisturizer,South,2024-09-22,3,26,20,78,22.73
+ORD00417,Lisa Garcia,Sports,Dumbbells,South,2024-01-31,1,780,20,780,146.3
+ORD00418,Steven Collins,Sports,Dumbbells,West,2024-10-23,4,144,5,576,136.48
+ORD00419,Mark Bell,Electronics,Smartwatch,East,2024-11-21,1,932,15,932,262.43
+ORD00420,John Alexander,Fashion,Jacket,North,2024-05-20,5,993,15,4965,782.67
+ORD00421,Kelly Gay,Beauty,Face Wash,East,2024-03-02,3,245,5,735,84.96
+ORD00422,Victor Davila,Beauty,Face Wash,North,2024-06-04,1,481,0,481,57.68
+ORD00423,Leah Patrick,Beauty,Moisturizer,North,2025-01-31,2,240,20,480,139.32
+ORD00424,Ricardo Rowland,Home & Kitchen,Cookware,West,2024-09-18,2,31,5,62,10.13
+ORD00425,Jennifer Howell,Electronics,Headphones,East,2025-02-03,3,428,20,1284,376.48
+ORD00426,Thomas Richards,Electronics,Headphones,West,2024-07-31,5,226,20,1130,217.15
+ORD00427,Julie Wagner,Beauty,Perfume,West,2025-04-21,2,156,5,312,35.79
+ORD00428,Alejandro Wolf,Home & Kitchen,Cookware,South,2024-02-29,5,436,10,2180,146.98
+ORD00429,Crystal Chandler,Fashion,Jeans,East,2024-06-01,1,328,10,328,78.84
+ORD00430,Andrea Ortiz,Beauty,Face Wash,South,2024-02-05,1,904,0,904,158.37
+ORD00431,Jody Kane,Home & Kitchen,Mixer,South,2025-02-18,3,950,20,2850,332.65
+ORD00432,Joshua Martinez,Electronics,Smartphone,North,2024-11-17,5,383,20,1915,484.87
+ORD00433,Greg Thomas,Fashion,T-Shirt,North,2024-10-09,5,340,15,1700,429.82
+ORD00434,Neil Becker,Sports,Yoga Mat,South,2024-11-20,5,790,20,3950,1075.5
+ORD00435,Jason Patton,Fashion,Jacket,West,2024-12-26,1,905,5,905,219.8
+ORD00436,Stacy Miller,Home & Kitchen,Cookware,East,2024-06-11,4,352,10,1408,118.53
+ORD00437,Eric Arroyo,Home & Kitchen,Mixer,West,2025-02-01,1,354,15,354,19.66
+ORD00438,Maria Dougherty,Fashion,Jacket,West,2024-07-22,3,693,5,2079,536.77
+ORD00439,Michael Watson,Sports,Cricket Bat,East,2024-11-06,4,895,10,3580,192.43
+ORD00440,Zachary Anderson,Beauty,Perfume,East,2024-02-05,2,417,20,834,70.86
+ORD00441,Tammy Spence,Beauty,Moisturizer,East,2024-10-21,2,674,5,1348,216.76
+ORD00442,Brian Bowen,Home & Kitchen,Table Lamp,East,2025-04-17,3,955,5,2865,848.84
+ORD00443,Charles Green,Electronics,Smartwatch,East,2024-03-05,4,909,0,3636,768.47
+ORD00444,Jessica Camacho,Fashion,Jeans,West,2024-02-29,5,838,20,4190,452.82
+ORD00445,Eddie Hall,Electronics,Smartwatch,East,2025-05-08,1,170,20,170,12.74
+ORD00446,Jennifer Cox,Sports,Dumbbells,East,2025-04-19,3,824,5,2472,646.34
+ORD00447,Robert Johnson,Electronics,Smartphone,North,2024-10-12,2,313,0,626,138.11
+ORD00448,Richard Santos,Electronics,Headphones,North,2025-03-11,3,597,0,1791,422.7
+ORD00449,Eric Bailey,Beauty,Moisturizer,West,2024-01-04,2,131,10,262,68.32
+ORD00450,Valerie Hahn,Electronics,Smartphone,East,2024-07-17,1,250,5,250,47.54
+ORD00451,Cheyenne House,Sports,Yoga Mat,South,2025-04-23,3,635,0,1905,373.39
+ORD00452,Michele Cook,Beauty,Perfume,West,2024-03-05,1,479,15,479,57.03
+ORD00453,Victoria Johnson,Electronics,Smartwatch,South,2024-12-08,3,926,0,2778,542.2
+ORD00454,Blake Sims,Electronics,Laptop,East,2024-01-14,3,434,15,1302,231.58
+ORD00455,Ashley Kelly,Sports,Football,South,2024-01-07,2,704,15,1408,162.53
+ORD00456,Mary Myers,Home & Kitchen,Mixer,South,2024-05-21,2,151,20,302,24.54
+ORD00457,Elizabeth Aguilar,Electronics,Smartphone,South,2025-02-01,3,361,0,1083,308.38
+ORD00458,Jim Wheeler,Fashion,Jacket,North,2024-12-14,5,91,20,455,99.97
+ORD00459,Anthony Higgins,Beauty,Perfume,South,2024-04-14,4,738,5,2952,800.64
+ORD00460,Jeffrey Rowe,Fashion,Shoes,South,2024-09-05,5,997,20,4985,521.74
+ORD00461,Mckenzie Kramer,Sports,Cricket Bat,West,2025-04-28,4,404,10,1616,463.72
+ORD00462,Teresa Tran,Electronics,Headphones,West,2025-01-14,3,288,15,864,237.92
+ORD00463,Martin Palmer,Electronics,Smartwatch,North,2024-05-12,3,475,15,1425,364.26
+ORD00464,Jacqueline Black,Beauty,Moisturizer,South,2024-06-30,4,357,15,1428,248.13
+ORD00465,Judy Tyler,Beauty,Moisturizer,East,2024-11-10,3,432,20,1296,226.62
+ORD00466,Megan Martin,Electronics,Smartwatch,East,2024-05-20,5,566,20,2830,621.41
+ORD00467,Walter Adams,Fashion,T-Shirt,South,2024-05-13,2,590,5,1180,259.66
+ORD00468,Jacqueline Garcia,Home & Kitchen,Cookware,East,2024-09-19,5,216,20,1080,134.39
+ORD00469,James Ford,Beauty,Moisturizer,West,2025-04-08,5,222,20,1110,218.77
+ORD00470,Jordan Lopez,Sports,Dumbbells,East,2025-03-17,5,168,15,840,240.75
+ORD00471,Audrey Sloan,Electronics,Smartwatch,East,2024-04-17,1,667,10,667,117.84
+ORD00472,Angela Wiggins,Beauty,Moisturizer,West,2024-09-29,1,297,10,297,38.62
+ORD00473,Susan Nguyen,Beauty,Moisturizer,West,2024-10-15,4,196,10,784,182.33
+ORD00474,Jason Thornton,Home & Kitchen,Table Lamp,North,2025-03-05,5,862,10,4310,928.32
+ORD00475,Amanda Brewer PhD,Home & Kitchen,Mixer,South,2024-09-27,5,77,5,385,93.81
+ORD00476,Jeffrey Miller,Home & Kitchen,Cookware,North,2024-10-07,2,663,10,1326,310.12
+ORD00477,Jose Nguyen,Beauty,Face Wash,East,2024-11-28,5,536,10,2680,501.95
+ORD00478,Mark Russell,Sports,Football,North,2024-05-06,3,872,5,2616,211.43
+ORD00479,Brenda Salas,Sports,Cricket Bat,South,2024-12-22,2,822,15,1644,254.52
+ORD00480,Michael Morris,Fashion,Jacket,West,2024-01-16,3,776,15,2328,483.0
+ORD00481,Cameron Johnson,Sports,Yoga Mat,East,2024-10-28,2,696,5,1392,159.43
+ORD00482,Brandon Goodman,Electronics,Smartphone,North,2025-05-05,2,687,10,1374,388.11
+ORD00483,Ashley Lindsey,Electronics,Smartwatch,South,2024-04-28,5,652,5,3260,415.34
+ORD00484,Connie Soto,Fashion,Jacket,South,2024-07-25,5,233,15,1165,327.6
+ORD00485,Cheryl Watson,Beauty,Face Wash,South,2025-02-17,3,309,20,927,153.1
+ORD00486,Michelle Brown,Sports,Football,North,2025-03-15,2,103,15,206,26.53
+ORD00487,Anita White,Home & Kitchen,Cookware,South,2024-04-01,2,229,15,458,75.95
+ORD00488,Barry Reyes,Fashion,Jeans,South,2025-02-25,2,697,0,1394,182.36
+ORD00489,Jason Ramos,Home & Kitchen,Mixer,West,2024-06-23,5,937,10,4685,277.82
+ORD00490,Kimberly Mendoza,Beauty,Moisturizer,East,2024-12-05,5,244,15,1220,176.11
+ORD00491,Beth Ramirez,Sports,Yoga Mat,North,2024-06-28,2,42,20,84,20.2
+ORD00492,David Clark,Beauty,Perfume,North,2025-03-26,3,996,0,2988,857.38
+ORD00493,Alison Rose,Beauty,Lipstick,North,2025-01-01,2,507,0,1014,245.45
+ORD00494,Ann Walton,Home & Kitchen,Chair,West,2024-05-01,5,64,5,320,56.68
+ORD00495,Rebecca Medina,Fashion,Shoes,East,2024-09-13,1,72,20,72,16.81
+ORD00496,David Gibson,Fashion,Shoes,West,2024-03-19,1,373,0,373,99.0
+ORD00497,Brandon Munoz,Electronics,Smartphone,West,2025-03-08,2,824,5,1648,470.66
+ORD00498,Amber Kent,Electronics,Smartwatch,East,2024-12-29,2,344,20,688,135.08
+ORD00499,Robert Bush,Beauty,Lipstick,South,2024-05-17,4,951,5,3804,889.24
+ORD00500,Jake Wells,Electronics,Laptop,North,2024-09-16,4,972,15,3888,447.63
+ORD00501,Gregory Brooks,Fashion,Shoes,West,2024-05-21,4,20,0,80,19.96
+ORD00502,Steven Ortega,Sports,Football,North,2024-07-11,3,662,10,1986,589.63
+ORD00503,Robert Shaffer,Fashion,T-Shirt,East,2024-10-04,3,397,15,1191,243.53
+ORD00504,Victoria White,Sports,Yoga Mat,East,2024-05-14,4,550,20,2200,441.13
+ORD00505,Regina Oneill,Sports,Cricket Bat,East,2024-08-28,4,344,10,1376,255.53
+ORD00506,Margaret Martin,Beauty,Moisturizer,East,2024-01-04,1,374,10,374,52.64
+ORD00507,Erica Greene,Home & Kitchen,Cookware,North,2024-05-02,1,535,10,535,118.35
+ORD00508,Erica Choi,Home & Kitchen,Chair,North,2024-03-18,1,721,15,721,36.94
+ORD00509,Jamie Perez,Electronics,Headphones,North,2025-04-29,2,200,10,400,71.75
+ORD00510,Valerie Fernandez,Electronics,Laptop,West,2024-04-15,5,686,5,3430,534.41
+ORD00511,Michelle Schneider,Home & Kitchen,Cookware,East,2024-03-13,2,512,15,1024,250.72
+ORD00512,Veronica Evans,Beauty,Moisturizer,West,2024-06-05,3,112,5,336,54.65
+ORD00513,Daniel Madden,Sports,Football,East,2024-03-22,5,973,10,4865,279.74
+ORD00514,Jeffrey Martinez,Sports,Football,South,2025-01-15,5,392,0,1960,119.91
+ORD00515,Mrs. Pam Waters,Fashion,Jacket,East,2024-11-21,3,204,15,612,155.77
+ORD00516,Jennifer Miller,Beauty,Lipstick,South,2025-03-26,2,128,5,256,71.4
+ORD00517,Anthony Smith,Beauty,Lipstick,South,2025-05-09,3,868,0,2604,148.52
+ORD00518,Wendy Bailey,Fashion,Jeans,South,2024-02-03,5,795,0,3975,752.29
+ORD00519,Peter Riggs,Electronics,Headphones,East,2024-07-05,1,413,15,413,99.58
+ORD00520,Megan Fernandez,Sports,Yoga Mat,East,2024-12-04,4,165,10,660,74.41
+ORD00521,Marilyn Fuller,Home & Kitchen,Chair,West,2024-11-21,3,783,5,2349,440.63
+ORD00522,Christopher Wilson,Fashion,Jacket,South,2024-07-08,3,282,15,846,75.95
+ORD00523,Jennifer Smith,Home & Kitchen,Chair,West,2024-07-03,3,821,5,2463,247.06
+ORD00524,Lisa Holt,Sports,Yoga Mat,North,2024-08-20,1,534,10,534,136.72
+ORD00525,Gregory George,Sports,Dumbbells,East,2024-02-26,2,819,5,1638,430.37
+ORD00526,Brian Ochoa,Fashion,T-Shirt,West,2024-12-28,3,276,15,828,169.06
+ORD00527,Barbara Dawson,Sports,Football,South,2024-04-01,2,858,5,1716,291.79
+ORD00528,Angela Stewart,Fashion,Shoes,South,2024-02-01,5,138,5,690,127.54
+ORD00529,Sierra Jackson,Sports,Dumbbells,North,2025-02-13,4,191,20,764,175.76
+ORD00530,Jordan Sharp,Fashion,Shoes,West,2024-12-02,1,174,10,174,45.23
+ORD00531,Melissa Armstrong,Sports,Cricket Bat,West,2024-09-18,2,871,0,1742,162.75
+ORD00532,Melanie Mccarthy,Beauty,Moisturizer,East,2025-05-06,5,183,15,915,209.26
+ORD00533,Lisa Collins,Sports,Cricket Bat,West,2025-02-16,1,455,20,455,71.5
+ORD00534,Timothy Mitchell,Sports,Football,East,2024-08-01,2,877,5,1754,116.68
+ORD00535,Mr. David Wyatt,Sports,Yoga Mat,South,2024-04-08,1,127,0,127,33.09
+ORD00536,Erika Reyes,Home & Kitchen,Cookware,South,2024-10-10,5,186,0,930,102.41
+ORD00537,Douglas Hughes,Home & Kitchen,Mixer,North,2024-08-24,1,24,5,24,2.01
+ORD00538,Charles Stevens,Fashion,Jacket,North,2025-03-18,3,563,15,1689,502.62
+ORD00539,Amy Hall,Sports,Dumbbells,South,2024-08-09,2,255,10,510,51.79
+ORD00540,Anthony Perez,Home & Kitchen,Cookware,East,2024-04-21,4,295,20,1180,286.65
+ORD00541,Hannah Cooke,Beauty,Perfume,North,2024-09-01,4,74,10,296,66.39
+ORD00542,Elizabeth Cardenas,Beauty,Moisturizer,North,2024-06-09,4,299,15,1196,152.32
+ORD00543,Deborah Jones,Fashion,Jacket,East,2024-08-09,3,654,10,1962,198.52
+ORD00544,Travis Watts,Fashion,Jeans,South,2024-11-25,5,814,5,4070,1220.15
+ORD00545,Joanne Moran,Beauty,Face Wash,West,2025-03-26,5,651,15,3255,274.05
+ORD00546,Alyssa Powers,Fashion,T-Shirt,North,2025-01-05,4,830,10,3320,610.67
+ORD00547,Cassandra Manning,Sports,Cricket Bat,West,2025-01-02,5,725,20,3625,313.4
+ORD00548,Duane Burns,Fashion,Jeans,South,2024-09-30,1,720,10,720,45.53
+ORD00549,Mr. Eric Williams,Beauty,Face Wash,East,2025-02-26,2,481,10,962,266.74
+ORD00550,Michael Perez,Home & Kitchen,Mixer,West,2024-06-01,5,844,10,4220,1120.04
+ORD00551,Sherry Jefferson,Electronics,Smartphone,South,2025-03-15,1,885,15,885,66.93
+ORD00552,Peter Valentine,Home & Kitchen,Mixer,North,2024-07-19,1,139,15,139,40.6
+ORD00553,Ryan Donovan,Beauty,Face Wash,West,2024-11-12,2,376,10,752,87.7
+ORD00554,Alexis Miller,Beauty,Face Wash,North,2024-03-08,5,224,10,1120,197.13
+ORD00555,Jody Nelson,Home & Kitchen,Cookware,South,2024-05-05,2,201,15,402,75.14
+ORD00556,Melissa King,Home & Kitchen,Table Lamp,North,2024-07-02,3,988,20,2964,514.31
+ORD00557,Kristen Murray,Fashion,Jeans,West,2024-09-21,3,648,10,1944,311.49
+ORD00558,Nancy Dominguez,Sports,Cricket Bat,East,2025-01-26,2,479,15,958,70.41
+ORD00559,Laurie Grimes,Beauty,Face Wash,North,2025-03-06,2,262,15,524,142.94
+ORD00560,Nicole Conner,Beauty,Perfume,East,2025-04-16,5,818,0,4090,343.55
+ORD00561,Lauren Ortiz,Sports,Football,West,2025-01-29,3,169,15,507,83.18
+ORD00562,Kathryn Chen,Fashion,Shoes,South,2025-01-14,4,754,10,3016,678.55
+ORD00563,Christopher Craig,Beauty,Face Wash,North,2024-05-02,1,350,20,350,98.16
+ORD00564,Tristan Rowe,Electronics,Headphones,South,2025-02-11,2,879,10,1758,507.0
+ORD00565,Denise Hammond,Fashion,Jacket,South,2025-02-12,4,721,20,2884,313.08
+ORD00566,Michelle Sims,Fashion,T-Shirt,South,2025-01-27,3,241,20,723,76.04
+ORD00567,Sydney Mcgrath,Sports,Football,West,2024-05-23,5,378,0,1890,221.15
+ORD00568,Rebecca Cervantes,Beauty,Lipstick,East,2024-11-25,3,67,15,201,47.52
+ORD00569,David Rocha,Electronics,Smartwatch,North,2024-07-20,5,290,5,1450,406.34
+ORD00570,Natalie Brown,Home & Kitchen,Table Lamp,West,2024-01-29,2,46,0,92,18.28
+ORD00571,Amy Jenkins,Fashion,Shoes,West,2025-04-14,3,405,20,1215,190.79
+ORD00572,Stephanie Mendoza,Home & Kitchen,Chair,West,2024-08-08,1,299,20,299,15.94
+ORD00573,Brent Walker,Beauty,Lipstick,South,2024-05-02,4,215,15,860,244.22
+ORD00574,Mikayla Jones,Electronics,Laptop,South,2025-04-17,3,409,20,1227,189.27
+ORD00575,James Edwards,Home & Kitchen,Cookware,South,2024-08-10,1,278,5,278,63.18
+ORD00576,Andrew Dixon,Home & Kitchen,Chair,South,2024-07-06,5,290,0,1450,287.12
+ORD00577,Sara Wheeler,Fashion,Jacket,North,2024-05-19,2,768,10,1536,360.2
+ORD00578,Lindsey Matthews,Beauty,Moisturizer,South,2025-04-21,1,82,5,82,4.18
+ORD00579,Michael Jones,Beauty,Face Wash,North,2024-04-21,4,706,5,2824,269.75
+ORD00580,Kim Taylor,Beauty,Moisturizer,West,2024-06-09,4,121,10,484,102.09
+ORD00581,Erin Vasquez,Fashion,Jeans,East,2024-04-16,1,729,0,729,43.39
+ORD00582,Taylor Ruiz,Sports,Football,East,2024-12-04,5,686,20,3430,387.17
+ORD00583,Eric Gallegos,Electronics,Laptop,North,2024-06-28,5,146,5,730,76.45
+ORD00584,Kathleen Valdez,Electronics,Smartphone,South,2025-01-10,3,735,5,2205,211.02
+ORD00585,Cody Morton,Beauty,Moisturizer,North,2025-02-09,2,467,20,934,205.94
+ORD00586,Amy Ramsey,Beauty,Face Wash,East,2025-02-25,1,411,5,411,41.53
+ORD00587,Michelle Dudley,Sports,Football,West,2025-04-12,3,766,10,2298,408.99
+ORD00588,Carrie Todd,Electronics,Laptop,West,2024-02-29,5,784,10,3920,1105.12
+ORD00589,Craig Rojas,Beauty,Perfume,East,2024-10-04,1,659,20,659,173.97
+ORD00590,Robert Scott,Sports,Dumbbells,South,2024-12-12,5,36,20,180,38.56
+ORD00591,Collin Wilson,Fashion,Jacket,West,2024-01-22,3,396,5,1188,96.33
+ORD00592,Angela Powers,Sports,Football,West,2024-04-19,3,127,15,381,113.02
+ORD00593,Scott Gomez,Beauty,Face Wash,South,2024-03-18,3,413,15,1239,236.3
+ORD00594,Jeremy Bates,Fashion,Shoes,South,2024-09-29,2,44,0,88,17.06
+ORD00595,Sharon Jordan MD,Electronics,Smartwatch,North,2024-02-25,5,102,10,510,82.08
+ORD00596,Kevin Rosario,Fashion,Jeans,South,2024-01-18,3,680,10,2040,405.43
+ORD00597,Autumn Welch,Electronics,Smartphone,South,2024-08-23,1,235,10,235,51.38
+ORD00598,Lisa Watson,Home & Kitchen,Table Lamp,North,2024-05-18,2,174,20,348,46.89
+ORD00599,Megan Oneill,Electronics,Laptop,East,2025-03-20,1,749,0,749,96.13
+ORD00600,Krista King,Fashion,Jeans,East,2024-11-21,5,75,5,375,69.91
+ORD00601,Frank Lynn,Sports,Dumbbells,West,2024-09-26,4,710,10,2840,206.23
+ORD00602,Carolyn Stephens,Sports,Dumbbells,North,2024-09-19,4,87,0,348,88.32
+ORD00603,Kyle Thomas,Beauty,Face Wash,East,2025-02-04,3,885,5,2655,563.39
+ORD00604,Michael Bennett,Beauty,Face Wash,North,2024-06-22,4,94,5,376,106.63
+ORD00605,Robert Diaz,Sports,Dumbbells,West,2024-06-19,1,23,20,23,2.13
+ORD00606,Angela Hood,Beauty,Face Wash,North,2025-04-22,1,780,20,780,162.88
+ORD00607,Linda Smith,Beauty,Moisturizer,North,2024-03-21,5,712,20,3560,1030.91
+ORD00608,Matthew Brown,Fashion,Shoes,South,2025-01-15,3,799,20,2397,334.55
+ORD00609,Nathaniel Fleming,Beauty,Moisturizer,South,2025-02-12,5,207,20,1035,166.67
+ORD00610,Lori Wood,Sports,Yoga Mat,South,2025-03-02,3,229,0,687,106.67
+ORD00611,Laura Floyd,Electronics,Headphones,South,2024-10-14,4,126,10,504,49.13
+ORD00612,Jesse Ortega,Electronics,Smartwatch,North,2025-02-22,2,335,5,670,105.08
+ORD00613,Ashley Ortiz,Electronics,Smartwatch,South,2024-04-21,5,47,20,235,47.91
+ORD00614,Nancy Phelps,Beauty,Lipstick,East,2025-02-12,2,392,20,784,139.07
+ORD00615,Latoya Weber,Fashion,Jeans,South,2024-07-28,2,190,10,380,89.66
+ORD00616,Brian Gonzalez,Fashion,T-Shirt,East,2024-11-10,3,776,0,2328,377.53
+ORD00617,Samuel Harper,Fashion,Jeans,North,2024-02-04,5,393,5,1965,432.54
+ORD00618,Kerri Romero,Beauty,Lipstick,North,2025-01-19,2,283,0,566,105.61
+ORD00619,Derrick Mcgee,Home & Kitchen,Cookware,West,2024-06-12,5,668,10,3340,232.73
+ORD00620,Karen Walker,Fashion,Shoes,North,2024-03-30,4,943,10,3772,630.37
+ORD00621,Peter Douglas,Home & Kitchen,Chair,North,2024-03-19,2,901,15,1802,161.68
+ORD00622,Joseph Marquez,Fashion,Shoes,South,2024-12-11,3,913,0,2739,494.08
+ORD00623,Jodi Sharp,Fashion,Shoes,West,2024-07-03,4,695,5,2780,382.85
+ORD00624,Christopher Torres,Fashion,T-Shirt,South,2024-07-24,2,545,15,1090,100.75
+ORD00625,Mike Kirk,Fashion,Jacket,South,2025-01-21,3,952,10,2856,336.17
+ORD00626,Janet Craig,Fashion,Shoes,North,2025-03-18,1,570,10,570,48.49
+ORD00627,Jennifer Vargas,Electronics,Laptop,South,2024-10-14,4,877,15,3508,614.62
+ORD00628,Omar Garza,Beauty,Perfume,North,2024-02-07,4,737,15,2948,627.31
+ORD00629,Jerry Landry,Sports,Yoga Mat,West,2024-05-25,5,493,15,2465,333.81
+ORD00630,Shawn Bowman,Beauty,Moisturizer,South,2024-12-19,4,426,5,1704,235.32
+ORD00631,Cheryl Davis,Fashion,T-Shirt,South,2024-08-26,4,381,0,1524,121.68
+ORD00632,Jennifer Mcgee,Sports,Yoga Mat,West,2024-12-21,3,215,5,645,117.21
+ORD00633,Brittney Wright,Electronics,Laptop,South,2025-04-24,3,60,5,180,11.03
+ORD00634,Caleb Richards,Home & Kitchen,Chair,East,2025-02-04,5,963,15,4815,304.74
+ORD00635,Jonathan Brown,Home & Kitchen,Chair,East,2024-07-31,4,245,15,980,146.82
+ORD00636,Raymond Morton,Electronics,Smartphone,East,2025-04-22,3,682,5,2046,613.17
+ORD00637,Sharon Livingston,Fashion,Shoes,West,2024-09-07,3,770,20,2310,220.23
+ORD00638,Janet Gardner,Sports,Football,East,2025-05-06,1,718,5,718,144.48
+ORD00639,Nicole Robertson,Electronics,Smartphone,South,2025-04-21,1,824,20,824,48.65
+ORD00640,Christian Beck,Sports,Yoga Mat,West,2024-03-25,1,316,20,316,17.2
+ORD00641,Jared Wilson,Electronics,Laptop,West,2025-04-02,4,848,0,3392,735.82
+ORD00642,Shannon Kelley,Home & Kitchen,Cookware,North,2024-09-20,5,876,15,4380,488.55
+ORD00643,Cole Ray,Beauty,Moisturizer,South,2025-05-14,4,635,20,2540,409.68
+ORD00644,Susan Doyle,Beauty,Lipstick,West,2024-12-06,4,55,10,220,20.84
+ORD00645,Jamie Griffin MD,Home & Kitchen,Mixer,North,2024-02-17,1,609,0,609,80.25
+ORD00646,Brian Reyes,Fashion,Jacket,East,2024-07-24,2,710,10,1420,413.48
+ORD00647,Brittany Carroll,Fashion,Jeans,West,2024-10-07,4,924,20,3696,884.45
+ORD00648,Tammy Stewart,Beauty,Perfume,East,2025-04-05,2,370,20,740,141.55
+ORD00649,Rachel Thomas,Beauty,Perfume,South,2024-12-15,4,348,20,1392,207.93
+ORD00650,Robert Thomas,Beauty,Lipstick,East,2024-04-07,5,670,10,3350,800.35
+ORD00651,Joshua Pratt,Electronics,Laptop,North,2024-12-21,1,506,20,506,113.22
+ORD00652,Meagan Williams,Electronics,Smartwatch,West,2025-03-23,2,124,10,248,21.54
+ORD00653,Kara Buckley DDS,Sports,Yoga Mat,South,2024-12-23,4,674,15,2696,143.89
+ORD00654,Jesse Nelson,Electronics,Smartphone,West,2025-01-26,1,104,15,104,7.31
+ORD00655,Ronnie Davis,Fashion,T-Shirt,North,2024-04-29,1,460,10,460,137.64
+ORD00656,Rachel Mueller,Sports,Football,North,2025-04-09,2,270,5,540,116.02
+ORD00657,Michael Edwards,Fashion,Jeans,North,2024-10-31,5,77,20,385,83.7
+ORD00658,Richard Cantrell,Fashion,Jeans,West,2025-05-10,3,343,0,1029,59.48
+ORD00659,Aaron Gonzalez,Sports,Dumbbells,West,2025-02-20,5,878,0,4390,657.02
+ORD00660,Kayla Davis,Home & Kitchen,Mixer,North,2024-06-30,4,497,15,1988,306.87
+ORD00661,Connie Morales MD,Beauty,Perfume,East,2025-03-06,4,402,20,1608,229.49
+ORD00662,Kimberly Gilbert,Home & Kitchen,Table Lamp,West,2025-05-09,3,286,20,858,172.53
+ORD00663,James Stewart,Sports,Dumbbells,South,2024-09-11,5,410,10,2050,323.57
+ORD00664,Tim Clark,Sports,Dumbbells,East,2024-01-30,2,655,20,1310,78.82
+ORD00665,Justin Ayers,Electronics,Smartwatch,East,2024-05-23,3,729,20,2187,365.12
+ORD00666,Angela Hill,Sports,Dumbbells,South,2025-01-13,1,888,20,888,207.26
+ORD00667,John Green,Home & Kitchen,Cookware,East,2025-04-15,5,259,0,1295,294.38
+ORD00668,Amanda Larsen,Sports,Football,North,2024-12-15,5,48,20,240,49.07
+ORD00669,Mr. Juan Frye,Electronics,Laptop,North,2025-04-25,5,884,15,4420,566.5
+ORD00670,Ashley Lyons,Fashion,Shoes,South,2025-01-29,1,592,15,592,81.33
+ORD00671,Jennifer Freeman,Home & Kitchen,Mixer,South,2024-08-17,2,279,10,558,80.39
+ORD00672,Jose Williams,Electronics,Smartwatch,North,2025-02-25,3,522,10,1566,301.49
+ORD00673,Jill Mason,Beauty,Moisturizer,West,2025-02-08,2,476,15,952,243.19
+ORD00674,Brad Lozano,Home & Kitchen,Cookware,West,2025-01-26,3,759,5,2277,264.98
+ORD00675,Brittany Johnson,Beauty,Perfume,East,2024-03-23,4,650,10,2600,147.18
+ORD00676,Lisa Stewart,Beauty,Face Wash,North,2024-05-13,2,694,0,1388,106.97
+ORD00677,Emily Hall,Electronics,Laptop,South,2024-09-02,1,821,0,821,169.1
+ORD00678,Daniel Oliver Jr.,Electronics,Smartwatch,East,2024-03-21,5,627,15,3135,416.27
+ORD00679,Justin Jones,Home & Kitchen,Mixer,East,2024-09-01,4,440,15,1760,161.07
+ORD00680,Jack Smith,Sports,Yoga Mat,South,2024-07-18,1,758,10,758,218.83
+ORD00681,Erin Mcdonald,Sports,Dumbbells,West,2025-02-05,5,273,15,1365,379.5
+ORD00682,Mariah Horton,Home & Kitchen,Cookware,North,2024-02-28,4,789,20,3156,207.18
+ORD00683,Michael Johnson,Electronics,Smartphone,West,2025-03-04,2,607,20,1214,269.68
+ORD00684,Andrew Meadows,Fashion,Shoes,South,2025-03-02,3,263,10,789,42.96
+ORD00685,Kelli Fields,Beauty,Lipstick,East,2024-04-10,4,917,5,3668,999.4
+ORD00686,Jesse Lopez,Home & Kitchen,Cookware,West,2024-08-21,4,827,5,3308,768.65
+ORD00687,James Moore,Electronics,Smartphone,North,2024-02-27,4,667,15,2668,304.99
+ORD00688,Cynthia Fox,Sports,Dumbbells,South,2025-04-02,4,227,15,908,131.84
+ORD00689,Derrick Medina,Fashion,T-Shirt,West,2024-01-03,2,694,15,1388,124.61
+ORD00690,Paula Moore,Electronics,Laptop,East,2024-07-01,4,493,10,1972,395.06
+ORD00691,Kristen Garcia,Electronics,Headphones,West,2025-04-28,5,263,0,1315,161.68
+ORD00692,Jodi Adams,Fashion,Jacket,North,2025-01-04,3,916,15,2748,148.61
+ORD00693,Michael Brennan,Beauty,Lipstick,North,2025-01-21,5,745,10,3725,329.65
+ORD00694,Todd Dunn,Fashion,Jeans,North,2024-09-01,4,344,20,1376,114.57
+ORD00695,Michael Stewart,Home & Kitchen,Chair,South,2024-11-23,1,838,15,838,137.76
+ORD00696,Robert Cruz,Home & Kitchen,Table Lamp,East,2024-02-01,1,429,20,429,114.41
+ORD00697,Lindsey Wright,Fashion,Shoes,North,2024-03-10,5,754,20,3770,1063.04
+ORD00698,Brittany Cook,Fashion,T-Shirt,South,2024-08-25,5,423,20,2115,142.44
+ORD00699,Justin Vazquez,Sports,Football,South,2024-11-09,1,223,5,223,44.54
+ORD00700,Andrew Lopez,Fashion,T-Shirt,East,2024-10-19,2,109,0,218,48.08
+ORD00701,Donald Reed,Beauty,Face Wash,East,2024-12-24,2,443,0,886,66.65
+ORD00702,Cheryl Fisher,Electronics,Headphones,East,2024-11-22,1,482,10,482,116.09
+ORD00703,Nicole Pineda,Home & Kitchen,Cookware,South,2025-04-27,3,78,10,234,22.47
+ORD00704,Lori Norris,Home & Kitchen,Cookware,East,2025-04-16,2,946,10,1892,253.17
+ORD00705,Henry Ellis,Fashion,Shoes,South,2025-01-06,1,290,0,290,49.45
+ORD00706,Dawn Jenkins,Fashion,Jacket,West,2024-04-20,3,493,10,1479,173.42
+ORD00707,Anna Campos,Electronics,Laptop,North,2024-08-08,5,578,5,2890,754.58
+ORD00708,Autumn Jones,Home & Kitchen,Cookware,North,2024-03-10,2,371,5,742,133.53
+ORD00709,James Thomas,Sports,Dumbbells,South,2025-01-12,1,75,0,75,9.42
+ORD00710,Emily Perez,Sports,Cricket Bat,South,2024-07-09,2,448,20,896,85.86
+ORD00711,Leah Nunez,Home & Kitchen,Cookware,East,2025-04-24,3,677,5,2031,464.19
+ORD00712,Deborah Williams,Beauty,Moisturizer,South,2024-07-24,5,39,20,195,23.54
+ORD00713,Kenneth Frost,Fashion,Jacket,West,2024-10-04,5,674,5,3370,554.63
+ORD00714,Richard Smith,Beauty,Perfume,East,2024-07-11,3,559,5,1677,168.22
+ORD00715,Renee Miller,Home & Kitchen,Table Lamp,East,2025-01-30,5,659,20,3295,645.25
+ORD00716,Paul Higgins,Sports,Cricket Bat,West,2024-09-18,4,502,15,2008,179.48
+ORD00717,Christopher Boone,Sports,Football,East,2024-03-15,2,684,0,1368,156.41
+ORD00718,Nicholas Williams,Electronics,Smartphone,West,2024-06-10,5,799,20,3995,1080.76
+ORD00719,Sherry Ibarra,Home & Kitchen,Mixer,East,2024-04-27,2,470,20,940,274.08
+ORD00720,Natalie Thomas,Home & Kitchen,Mixer,South,2024-09-17,4,153,0,612,126.77
+ORD00721,Allison Robinson,Electronics,Smartphone,West,2024-12-02,4,264,5,1056,260.56
+ORD00722,Kristine Reynolds,Electronics,Smartphone,East,2024-03-15,4,619,0,2476,391.51
+ORD00723,Michael Shah,Beauty,Face Wash,East,2024-01-14,1,369,5,369,44.28
+ORD00724,Katherine Schultz,Electronics,Smartwatch,North,2025-04-30,2,368,0,736,150.12
+ORD00725,Courtney Watts,Home & Kitchen,Mixer,West,2024-02-18,3,28,15,84,5.88
+ORD00726,Mrs. Frances Bishop,Electronics,Laptop,South,2024-04-29,1,903,20,903,79.78
+ORD00727,Tina Tyler,Beauty,Face Wash,South,2025-03-14,5,863,5,4315,335.95
+ORD00728,Alex Kelly,Beauty,Face Wash,West,2024-07-20,2,458,20,916,65.85
+ORD00729,Samantha Foster,Sports,Dumbbells,South,2024-10-03,1,133,0,133,31.81
+ORD00730,Sarah Davila,Electronics,Headphones,North,2024-10-24,4,232,20,928,65.32
+ORD00731,Shawn Nguyen,Electronics,Smartphone,East,2024-02-17,5,340,10,1700,471.64
+ORD00732,Marc Walker,Home & Kitchen,Cookware,East,2024-12-24,5,787,15,3935,1019.98
+ORD00733,Thomas Long,Home & Kitchen,Chair,North,2025-01-03,3,665,0,1995,547.6
+ORD00734,Catherine Patton,Electronics,Smartwatch,East,2024-03-31,2,707,5,1414,357.1
+ORD00735,Kristen Warren,Beauty,Moisturizer,North,2025-02-24,5,919,5,4595,524.85
+ORD00736,Brett Jimenez,Fashion,T-Shirt,North,2025-03-03,5,285,10,1425,210.43
+ORD00737,Dawn Green,Home & Kitchen,Chair,North,2024-12-26,1,743,0,743,145.57
+ORD00738,William Reyes,Electronics,Headphones,North,2024-01-26,5,672,0,3360,718.6
+ORD00739,Michael Hicks,Beauty,Lipstick,West,2024-05-26,2,304,10,608,46.59
+ORD00740,Clinton Guerrero,Home & Kitchen,Cookware,East,2024-07-19,5,990,20,4950,682.11
+ORD00741,Veronica Myers,Electronics,Smartphone,North,2024-09-26,3,400,5,1200,157.05
+ORD00742,Tyler Nichols,Home & Kitchen,Mixer,East,2025-01-12,5,133,10,665,189.08
+ORD00743,Paul Miller,Fashion,Jeans,South,2024-02-14,3,612,0,1836,287.73
+ORD00744,Nathan Wilson,Electronics,Laptop,West,2024-10-30,5,871,15,4355,715.41
+ORD00745,Julie Williams,Home & Kitchen,Table Lamp,East,2024-08-08,5,300,10,1500,186.36
+ORD00746,Michael Avila,Sports,Football,South,2025-01-13,5,394,10,1970,305.11
+ORD00747,Steven Evans,Electronics,Smartwatch,West,2025-01-29,3,137,20,411,94.31
+ORD00748,Nancy Evans,Electronics,Headphones,North,2024-10-24,5,506,20,2530,355.2
+ORD00749,Madeline Thompson,Beauty,Perfume,North,2024-10-27,4,123,20,492,125.52
+ORD00750,Brian Ward,Home & Kitchen,Mixer,South,2024-01-06,5,735,5,3675,704.83
+ORD00751,Mallory Harris,Home & Kitchen,Mixer,North,2024-03-20,3,562,15,1686,97.4
+ORD00752,Theresa Allen,Electronics,Laptop,East,2024-03-13,3,121,20,363,74.33
+ORD00753,Christopher Owens,Fashion,Jeans,North,2024-01-26,1,289,0,289,26.09
+ORD00754,Melissa Norton,Home & Kitchen,Table Lamp,East,2025-02-04,2,402,15,804,168.74
+ORD00755,Briana Cross,Fashion,Jeans,East,2024-11-25,5,506,0,2530,554.16
+ORD00756,Ralph Campbell,Electronics,Headphones,West,2025-02-16,2,206,20,412,55.72
+ORD00757,John Torres,Sports,Cricket Bat,East,2025-04-21,1,249,20,249,12.65
+ORD00758,Timothy Jimenez,Sports,Football,South,2024-06-03,1,298,5,298,41.83
+ORD00759,Erica Roth,Sports,Dumbbells,West,2025-02-10,4,914,5,3656,675.75
+ORD00760,Brian Sloan,Fashion,Shoes,East,2024-08-30,3,862,20,2586,257.15
+ORD00761,David Jones,Beauty,Moisturizer,West,2025-02-20,4,973,10,3892,1167.31
+ORD00762,Daniel Winters,Electronics,Laptop,North,2025-02-28,4,892,5,3568,186.35
+ORD00763,Marie Leblanc,Sports,Cricket Bat,South,2024-07-19,5,73,15,365,54.14
+ORD00764,Dr. John Maldonado,Fashion,Jeans,West,2025-03-02,4,613,10,2452,155.02
+ORD00765,Frank Herring,Electronics,Laptop,West,2024-07-17,1,507,15,507,111.08
+ORD00766,Doris Ward,Home & Kitchen,Chair,East,2025-04-23,2,884,5,1768,177.02
+ORD00767,Julie Chang,Sports,Yoga Mat,South,2024-09-18,1,565,0,565,39.09
+ORD00768,Kyle Nelson,Sports,Dumbbells,North,2024-10-28,3,115,0,345,64.61
+ORD00769,Haley Diaz,Beauty,Perfume,West,2024-05-05,1,722,15,722,130.55
+ORD00770,Ethan Matthews,Beauty,Face Wash,West,2024-09-19,2,284,20,568,40.75
+ORD00771,William Thompson,Electronics,Headphones,East,2025-02-08,5,960,20,4800,473.73
+ORD00772,Matthew Johnson,Beauty,Perfume,South,2025-03-29,5,173,5,865,243.15
+ORD00773,Debra Taylor,Home & Kitchen,Chair,North,2024-11-08,2,889,5,1778,280.31
+ORD00774,Angela Phelps,Home & Kitchen,Cookware,West,2024-11-01,4,549,20,2196,310.46
+ORD00775,Patrick Barry,Home & Kitchen,Cookware,North,2024-06-19,1,430,20,430,107.12
+ORD00776,Kim Williams,Sports,Yoga Mat,North,2024-05-29,4,621,15,2484,400.24
+ORD00777,Nicole Hughes,Home & Kitchen,Table Lamp,East,2025-04-11,2,309,10,618,110.04
+ORD00778,Benjamin Henry,Beauty,Lipstick,West,2024-08-08,2,343,10,686,155.35
+ORD00779,Isaac Wang,Electronics,Smartphone,West,2025-04-11,3,112,20,336,37.04
+ORD00780,Michelle Rice,Sports,Cricket Bat,South,2024-08-10,5,74,0,370,88.48
+ORD00781,Alexa Knight,Home & Kitchen,Cookware,East,2024-06-10,5,373,5,1865,215.6
+ORD00782,Dillon Cuevas,Sports,Dumbbells,South,2024-11-02,1,559,5,559,68.44
+ORD00783,Mallory Ward,Beauty,Face Wash,South,2024-12-26,1,493,20,493,27.76
+ORD00784,Margaret Williams,Beauty,Moisturizer,South,2025-05-13,5,452,10,2260,624.9
+ORD00785,John Campbell,Home & Kitchen,Table Lamp,West,2024-11-03,4,518,10,2072,157.55
+ORD00786,Monique Mcdaniel,Beauty,Perfume,South,2024-08-03,5,521,20,2605,590.17
+ORD00787,Kevin Faulkner,Electronics,Smartwatch,South,2024-08-25,4,618,5,2472,519.43
+ORD00788,Heather Robinson,Home & Kitchen,Table Lamp,North,2024-08-06,5,299,15,1495,441.6
+ORD00789,Adam Jacobs,Sports,Dumbbells,West,2024-05-08,2,289,15,578,111.91
+ORD00790,Joseph Gonzalez,Electronics,Smartphone,North,2025-04-03,3,830,10,2490,505.73
+ORD00791,Hector Schultz,Sports,Cricket Bat,West,2025-03-25,4,449,15,1796,434.85
+ORD00792,David Davis,Beauty,Face Wash,West,2024-07-14,1,885,10,885,263.22
+ORD00793,Charles Hamilton,Electronics,Smartwatch,North,2024-05-18,3,511,5,1533,446.74
+ORD00794,Miguel Carter,Sports,Dumbbells,South,2024-05-28,2,462,5,924,58.75
+ORD00795,Gary Richardson,Fashion,Jacket,North,2024-04-21,5,251,20,1255,264.45
+ORD00796,Melissa Sanchez,Beauty,Lipstick,South,2025-02-26,1,275,20,275,78.33
+ORD00797,Andrea Roberts,Sports,Cricket Bat,North,2024-06-02,5,417,0,2085,521.68
+ORD00798,Joanna Kelly,Fashion,T-Shirt,West,2024-10-07,2,920,10,1840,389.47
+ORD00799,Ricky Weiss,Beauty,Face Wash,East,2024-11-13,5,407,0,2035,228.36
+ORD00800,Thomas Morton,Home & Kitchen,Cookware,South,2024-06-19,5,187,0,935,177.68
+ORD00801,Derek Berry,Sports,Football,West,2024-04-30,1,493,10,493,35.45
+ORD00802,Kimberly Hall,Beauty,Lipstick,West,2025-04-30,5,609,20,3045,413.34
+ORD00803,James Fleming,Electronics,Smartphone,South,2024-01-26,4,199,5,796,47.36
+ORD00804,Jennifer Lowe,Sports,Football,East,2024-06-16,4,709,0,2836,613.34
+ORD00805,Jeremy Gonzalez,Sports,Cricket Bat,South,2024-05-22,2,206,15,412,21.43
+ORD00806,Kathleen Macias DVM,Electronics,Headphones,South,2024-05-06,2,542,10,1084,93.23
+ORD00807,Mr. Joseph Ortiz,Home & Kitchen,Chair,South,2024-01-17,1,815,5,815,79.36
+ORD00808,Matthew Mason,Fashion,T-Shirt,North,2024-12-21,2,836,0,1672,112.56
+ORD00809,David Hull,Home & Kitchen,Cookware,East,2024-04-01,4,879,20,3516,978.64
+ORD00810,Danielle Jackson,Home & Kitchen,Table Lamp,East,2025-03-22,3,129,20,387,100.02
+ORD00811,Allen Adams,Electronics,Laptop,East,2024-04-08,2,480,20,960,266.29
+ORD00812,Deanna Martinez,Sports,Dumbbells,East,2024-03-05,1,959,10,959,80.52
+ORD00813,Amber Morgan,Beauty,Lipstick,West,2025-02-17,2,976,0,1952,429.74
+ORD00814,Anne Brooks,Beauty,Face Wash,West,2025-01-24,2,1000,20,2000,214.19
+ORD00815,Pamela Cabrera,Beauty,Moisturizer,East,2025-03-17,2,54,15,108,15.51
+ORD00816,Cindy Palmer,Home & Kitchen,Mixer,East,2025-02-08,5,281,20,1405,390.26
+ORD00817,Angela Pierce,Home & Kitchen,Table Lamp,East,2024-08-27,4,979,15,3916,382.09
+ORD00818,Anthony Perkins,Home & Kitchen,Cookware,North,2024-09-07,2,595,20,1190,139.29
+ORD00819,Kathleen Gonzalez,Sports,Cricket Bat,West,2024-07-19,3,231,5,693,85.1
+ORD00820,Charles Harris,Beauty,Moisturizer,West,2024-06-10,1,348,0,348,19.55
+ORD00821,Ryan Hawkins,Beauty,Lipstick,South,2024-08-15,2,623,15,1246,212.26
+ORD00822,Dennis Barber,Electronics,Headphones,North,2024-01-18,3,955,0,2865,647.36
+ORD00823,Kerri Franklin,Electronics,Smartphone,North,2025-01-08,4,767,5,3068,847.66
+ORD00824,Mike Archer,Sports,Football,North,2024-06-07,4,764,5,3056,907.93
+ORD00825,Michael Rosario,Fashion,Jeans,East,2025-03-28,2,709,0,1418,241.38
+ORD00826,Amber Collins,Electronics,Smartphone,South,2024-06-21,4,369,5,1476,197.6
+ORD00827,John Chambers,Electronics,Headphones,West,2024-07-01,1,116,0,116,10.17
+ORD00828,Anthony Jones,Electronics,Headphones,South,2024-08-16,3,70,10,210,30.34
+ORD00829,Julie Morales,Fashion,T-Shirt,North,2025-03-02,5,223,0,1115,212.21
+ORD00830,Margaret Quinn,Beauty,Lipstick,North,2025-02-27,1,644,0,644,74.4
+ORD00831,Austin Anderson,Fashion,Jacket,West,2024-05-05,4,962,0,3848,685.15
+ORD00832,Brian Hurst,Electronics,Smartphone,West,2024-07-12,5,51,20,255,17.14
+ORD00833,Linda Bennett,Electronics,Smartwatch,South,2025-05-05,3,875,10,2625,735.64
+ORD00834,Donna Sandoval,Fashion,Jacket,West,2024-09-29,5,596,20,2980,178.28
+ORD00835,Cynthia Pruitt,Beauty,Face Wash,North,2024-01-16,3,843,10,2529,627.17
+ORD00836,Melinda Clark,Beauty,Face Wash,West,2025-02-03,1,778,15,778,112.87
+ORD00837,Philip Mcintosh,Fashion,T-Shirt,West,2024-06-12,2,308,20,616,172.32
+ORD00838,Sarah Murphy MD,Home & Kitchen,Cookware,South,2024-04-18,4,65,15,260,16.57
+ORD00839,Kimberly Rios,Home & Kitchen,Mixer,North,2025-03-11,4,663,5,2652,339.53
+ORD00840,Virginia Thompson,Beauty,Face Wash,North,2024-09-18,5,909,15,4545,895.41
+ORD00841,Jason Gould,Home & Kitchen,Cookware,South,2024-12-04,4,199,5,796,58.3
+ORD00842,Brian Munoz,Electronics,Laptop,South,2024-09-23,5,700,10,3500,927.71
+ORD00843,Mr. Craig Berry,Home & Kitchen,Mixer,East,2024-03-14,2,956,20,1912,520.31
+ORD00844,Bryan Wilson,Electronics,Headphones,North,2024-09-13,2,949,0,1898,430.38
+ORD00845,Christine Adkins,Fashion,T-Shirt,West,2024-02-21,2,358,20,716,107.11
+ORD00846,Stephanie Perez,Electronics,Smartwatch,South,2024-10-30,4,982,5,3928,888.86
+ORD00847,Suzanne Rivera,Electronics,Smartphone,South,2025-03-13,5,459,15,2295,336.67
+ORD00848,Joseph Rose,Electronics,Smartphone,South,2024-05-04,1,933,20,933,110.54
+ORD00849,Shane Ward,Beauty,Lipstick,North,2024-03-05,4,516,15,2064,486.32
+ORD00850,Jeffrey Reed,Home & Kitchen,Chair,South,2024-03-17,5,707,15,3535,925.69
+ORD00851,Rebecca Roberts,Home & Kitchen,Chair,South,2024-02-25,4,190,5,760,213.71
+ORD00852,Chad Jefferson,Electronics,Laptop,West,2024-03-22,2,811,5,1622,102.22
+ORD00853,Jeremy Sanchez,Sports,Dumbbells,North,2024-07-17,2,656,5,1312,245.5
+ORD00854,Carol Moreno,Fashion,Shoes,South,2024-10-06,1,955,0,955,153.23
+ORD00855,Connor Mendez,Fashion,T-Shirt,North,2024-10-17,5,300,20,1500,282.48
+ORD00856,Mike Rivas,Electronics,Smartphone,South,2024-05-07,3,214,0,642,171.61
+ORD00857,Misty Chen,Electronics,Laptop,East,2024-07-10,4,436,20,1744,391.01
+ORD00858,Danielle Jones,Electronics,Smartwatch,North,2024-06-17,4,173,15,692,175.4
+ORD00859,Christine Wolfe,Sports,Cricket Bat,West,2024-07-25,2,756,5,1512,439.23
+ORD00860,Christopher Rogers,Electronics,Laptop,South,2024-04-24,2,756,10,1512,151.58
+ORD00861,Corey Perez,Electronics,Laptop,East,2025-04-20,1,442,5,442,77.75
+ORD00862,Christina Douglas,Beauty,Perfume,South,2024-03-16,4,762,5,3048,429.93
+ORD00863,David Williams,Sports,Yoga Mat,South,2024-09-24,5,624,15,3120,359.05
+ORD00864,Heidi Maldonado MD,Fashion,Shoes,West,2024-11-23,3,621,5,1863,291.21
+ORD00865,Thomas Clark,Sports,Football,South,2024-12-19,4,910,5,3640,711.11
+ORD00866,Jeffrey Brown,Home & Kitchen,Cookware,South,2025-02-07,5,705,0,3525,866.45
+ORD00867,Jesus Hodges,Home & Kitchen,Cookware,East,2025-03-11,5,914,0,4570,528.86
+ORD00868,Patricia Hickman,Home & Kitchen,Table Lamp,West,2024-02-04,3,649,5,1947,263.5
+ORD00869,Emily Ramirez,Home & Kitchen,Chair,South,2024-03-17,1,380,0,380,45.05
+ORD00870,Peter Wright,Beauty,Lipstick,West,2025-04-05,4,44,5,176,40.7
+ORD00871,Steven Jackson,Beauty,Face Wash,South,2024-08-17,1,77,15,77,4.74
+ORD00872,Lauren Hernandez,Fashion,Jeans,East,2024-05-18,5,315,0,1575,178.11
+ORD00873,Natalie Hill,Beauty,Face Wash,North,2025-03-05,5,298,5,1490,135.28
+ORD00874,Angela Carroll,Home & Kitchen,Table Lamp,West,2024-05-04,5,359,0,1795,93.52
+ORD00875,Susan Davis,Electronics,Laptop,North,2024-03-22,1,841,10,841,171.91
+ORD00876,Matthew Phillips,Home & Kitchen,Cookware,South,2024-08-01,5,235,10,1175,271.56
+ORD00877,Angela Mccarthy,Sports,Football,North,2025-04-01,3,450,0,1350,111.69
+ORD00878,Peter Arnold,Fashion,T-Shirt,North,2025-03-16,2,746,0,1492,120.11
+ORD00879,Lynn Jones,Beauty,Face Wash,South,2024-11-18,5,517,20,2585,581.57
+ORD00880,Thomas Montgomery,Sports,Dumbbells,West,2024-12-15,2,156,15,312,68.46
+ORD00881,Curtis Johnson,Beauty,Moisturizer,East,2024-11-22,2,982,10,1964,372.46
+ORD00882,Tony Gonzales,Fashion,Jacket,North,2024-07-17,3,952,15,2856,789.9
+ORD00883,Brian Baldwin,Fashion,Jacket,North,2024-01-28,5,835,10,4175,1193.38
+ORD00884,Michelle Waters,Electronics,Headphones,West,2024-05-25,3,192,0,576,102.11
+ORD00885,Jeffrey Dorsey,Fashion,T-Shirt,South,2024-02-19,1,141,10,141,40.8
+ORD00886,Olivia Cox,Beauty,Face Wash,South,2024-04-13,4,918,0,3672,920.49
+ORD00887,Laura Harris,Beauty,Lipstick,East,2025-01-16,1,49,20,49,3.47
+ORD00888,Noah Maxwell,Beauty,Perfume,West,2024-02-07,1,349,15,349,17.78
+ORD00889,Sara Cabrera,Beauty,Moisturizer,South,2024-11-19,4,672,5,2688,772.11
+ORD00890,Jennifer Guzman,Electronics,Laptop,East,2024-10-15,3,946,0,2838,443.38
+ORD00891,Kristen Patel,Beauty,Lipstick,East,2024-01-21,1,928,5,928,206.04
+ORD00892,Paul Gonzalez,Home & Kitchen,Cookware,South,2025-02-15,2,335,0,670,44.0
+ORD00893,Erin Riggs,Fashion,T-Shirt,West,2025-03-05,3,307,15,921,233.79
+ORD00894,Michael Davis,Beauty,Face Wash,North,2024-10-24,3,632,5,1896,507.13
+ORD00895,Jill Ruiz,Home & Kitchen,Table Lamp,West,2025-03-28,4,469,10,1876,377.71
+ORD00896,Sarah Carey,Sports,Cricket Bat,West,2024-04-27,2,726,20,1452,139.03
+ORD00897,John Calhoun,Home & Kitchen,Mixer,North,2024-11-27,2,727,10,1454,338.06
+ORD00898,Rebecca Gomez,Sports,Cricket Bat,South,2024-09-03,5,429,0,2145,586.22
+ORD00899,Claudia Carlson,Home & Kitchen,Table Lamp,East,2024-09-16,1,417,10,417,93.02
+ORD00900,Kevin Davis,Sports,Football,North,2024-06-18,3,396,0,1188,64.66
+ORD00901,Victoria Williams,Sports,Yoga Mat,East,2024-03-15,2,770,0,1540,169.39
+ORD00902,Rickey Dunn,Beauty,Moisturizer,West,2024-01-06,3,769,10,2307,235.59
+ORD00903,Linda Mccormick,Fashion,T-Shirt,North,2024-06-12,3,758,10,2274,652.42
+ORD00904,Gregory Lam,Sports,Yoga Mat,North,2024-09-19,3,204,5,612,113.36
+ORD00905,Jeffrey Richardson,Fashion,Shoes,West,2024-05-31,2,784,0,1568,231.7
+ORD00906,Ian Lloyd,Sports,Cricket Bat,West,2025-01-08,2,681,15,1362,140.3
+ORD00907,William Wagner,Home & Kitchen,Mixer,North,2024-05-04,2,549,20,1098,63.99
+ORD00908,Kelly Clark,Beauty,Face Wash,West,2025-01-13,1,913,0,913,161.5
+ORD00909,Kenneth Hunter,Home & Kitchen,Table Lamp,South,2024-01-03,5,352,10,1760,343.32
+ORD00910,Karen Fernandez,Beauty,Moisturizer,West,2024-09-12,4,797,10,3188,358.14
+ORD00911,Kenneth Williams,Beauty,Perfume,West,2024-07-07,1,410,0,410,106.95
+ORD00912,Brian Rojas Jr.,Fashion,T-Shirt,South,2024-03-10,2,954,0,1908,541.78
+ORD00913,Jessica Jones,Beauty,Perfume,West,2024-06-27,3,110,5,330,72.44
+ORD00914,Matthew Wells,Electronics,Headphones,West,2024-10-06,3,604,10,1812,512.32
+ORD00915,Colin Gaines,Electronics,Smartphone,West,2025-03-11,5,379,20,1895,273.7
+ORD00916,Jill Padilla,Beauty,Face Wash,West,2024-02-22,2,823,15,1646,216.43
+ORD00917,Catherine Benjamin,Fashion,Jacket,East,2024-02-21,5,76,15,380,113.49
+ORD00918,Tanya Stuart,Sports,Football,East,2024-05-09,1,634,10,634,137.33
+ORD00919,Luke Holmes,Electronics,Smartwatch,West,2024-08-24,5,512,20,2560,447.1
+ORD00920,David Jordan,Sports,Cricket Bat,West,2024-10-03,4,539,5,2156,241.3
+ORD00921,Anthony Lewis DVM,Fashion,Shoes,North,2024-01-01,1,567,5,567,60.6
+ORD00922,Justin Thompson,Sports,Football,East,2024-11-23,1,435,0,435,76.96
+ORD00923,Valerie Shaffer,Home & Kitchen,Cookware,East,2025-04-12,3,946,10,2838,698.76
+ORD00924,Courtney Alvarado,Electronics,Headphones,North,2025-04-19,3,800,0,2400,496.37
+ORD00925,Jerry Smith,Beauty,Face Wash,East,2024-06-06,1,289,20,289,24.77
+ORD00926,Todd Jordan,Beauty,Moisturizer,North,2024-04-16,2,732,10,1464,90.54
+ORD00927,Daniel Davis,Sports,Yoga Mat,West,2025-05-02,3,194,20,582,62.23
+ORD00928,Adam Miller,Beauty,Moisturizer,South,2024-09-07,4,360,15,1440,291.8
+ORD00929,Joshua Bryant,Fashion,Jeans,West,2025-03-27,5,273,10,1365,143.16
+ORD00930,Alicia Alexander,Sports,Dumbbells,South,2024-05-05,1,871,5,871,142.58
+ORD00931,John Owen,Sports,Football,West,2024-12-26,2,169,5,338,97.14
+ORD00932,Gary Salazar,Fashion,Shoes,North,2024-06-24,5,575,5,2875,494.24
+ORD00933,Claudia Powers,Electronics,Smartwatch,East,2024-11-05,4,499,5,1996,230.99
+ORD00934,Karen Torres,Fashion,Shoes,West,2024-06-16,5,635,20,3175,508.34
+ORD00935,Kathleen Bradley,Home & Kitchen,Mixer,North,2024-01-17,4,138,20,552,77.46
+ORD00936,Kevin Harvey,Sports,Football,North,2024-09-26,2,41,5,82,9.66
+ORD00937,Darlene Miller,Electronics,Smartwatch,South,2024-04-12,1,563,5,563,65.05
+ORD00938,Michelle Ellis,Beauty,Perfume,South,2024-10-21,2,281,15,562,133.15
+ORD00939,Valerie Austin,Electronics,Laptop,South,2024-03-20,1,263,10,263,77.55
+ORD00940,Shannon Rivera,Sports,Dumbbells,South,2025-03-19,4,602,5,2408,223.16
+ORD00941,Felicia Hampton,Electronics,Smartwatch,South,2024-08-24,1,690,10,690,137.37
+ORD00942,Heather Long,Beauty,Perfume,West,2024-01-11,4,797,20,3188,555.74
+ORD00943,Lauren Rocha,Beauty,Perfume,North,2024-09-23,3,941,20,2823,271.51
+ORD00944,Sandra Williams,Fashion,Shoes,South,2025-05-04,1,773,10,773,195.72
+ORD00945,Andrew Ruiz,Home & Kitchen,Chair,South,2024-10-11,5,294,20,1470,408.0
+ORD00946,Stephanie Williams,Electronics,Smartwatch,North,2024-09-09,2,894,0,1788,366.96
+ORD00947,Courtney Robinson,Sports,Dumbbells,South,2024-08-21,4,324,10,1296,273.03
+ORD00948,Jordan Curtis,Beauty,Face Wash,East,2024-10-11,3,634,10,1902,239.62
+ORD00949,Austin Lopez,Beauty,Lipstick,North,2024-02-18,3,643,10,1929,568.46
+ORD00950,Juan Glenn,Home & Kitchen,Table Lamp,North,2024-12-10,5,277,10,1385,250.18
+ORD00951,James Holmes,Beauty,Lipstick,East,2024-07-26,1,904,20,904,176.05
+ORD00952,Gail Taylor,Home & Kitchen,Chair,North,2024-06-15,5,244,10,1220,110.32
+ORD00953,Melissa Palmer DVM,Beauty,Face Wash,West,2024-06-12,1,868,15,868,136.6
+ORD00954,Mary Anderson,Electronics,Smartwatch,North,2025-02-17,1,733,5,733,73.49
+ORD00955,Christine Fowler,Fashion,Shoes,North,2025-02-17,1,403,20,403,89.86
+ORD00956,Adrian Gray,Sports,Yoga Mat,West,2024-07-26,1,483,10,483,118.06
+ORD00957,Robert Knight,Electronics,Smartphone,East,2025-03-26,1,831,15,831,63.41
+ORD00958,Kimberly Fitzpatrick,Fashion,Jacket,North,2024-01-28,2,845,20,1690,301.29
+ORD00959,Valerie Johnson,Home & Kitchen,Chair,East,2025-05-06,1,481,15,481,74.37
+ORD00960,Angela Lyons,Sports,Football,North,2024-08-13,5,708,20,3540,866.88
+ORD00961,Jillian Miller,Electronics,Smartphone,East,2025-03-10,4,245,10,980,152.94
+ORD00962,David Ramirez,Beauty,Moisturizer,West,2024-02-22,1,604,20,604,93.62
+ORD00963,Stephen Snow,Home & Kitchen,Cookware,North,2024-02-20,2,156,5,312,42.78
+ORD00964,Keith Mills,Electronics,Laptop,South,2024-01-15,4,392,15,1568,218.04
+ORD00965,Sean Welch,Home & Kitchen,Mixer,East,2024-05-06,3,656,10,1968,277.68
+ORD00966,Lisa Turner,Beauty,Perfume,South,2024-08-06,1,803,10,803,221.74
+ORD00967,Mark Jensen,Sports,Football,South,2024-12-21,4,763,0,3052,761.02
+ORD00968,Rebekah Kaiser,Beauty,Face Wash,West,2025-02-05,5,838,0,4190,700.12
+ORD00969,Linda Armstrong,Beauty,Moisturizer,West,2024-06-07,2,810,15,1620,138.01
+ORD00970,Stephanie Campbell,Home & Kitchen,Mixer,South,2024-09-28,5,589,15,2945,280.65
+ORD00971,Kimberly Rogers,Home & Kitchen,Chair,South,2024-11-25,2,956,15,1912,520.38
+ORD00972,Dean Oliver,Beauty,Face Wash,North,2024-11-16,1,500,15,500,40.08
+ORD00973,Christina Day,Electronics,Headphones,North,2024-02-21,4,404,0,1616,235.15
+ORD00974,Robert Spears,Beauty,Lipstick,South,2024-02-18,4,727,5,2908,643.66
+ORD00975,Jesus Griffin,Fashion,Jeans,North,2024-10-16,2,296,15,592,154.18
+ORD00976,Anne Daniels,Electronics,Headphones,South,2025-01-16,1,404,5,404,94.82
+ORD00977,Meghan Gonzales,Home & Kitchen,Table Lamp,North,2024-08-21,5,246,20,1230,345.79
+ORD00978,David Payne,Electronics,Smartphone,North,2025-03-12,1,734,10,734,126.97
+ORD00979,Sara Burns,Fashion,T-Shirt,East,2024-07-04,1,221,10,221,20.37
+ORD00980,Leah Williams,Fashion,Jeans,East,2024-11-22,1,564,5,564,122.99
+ORD00981,Connie Bauer,Fashion,Jeans,South,2025-04-23,1,962,15,962,124.71
+ORD00982,Gabrielle Reid,Home & Kitchen,Mixer,East,2025-03-08,4,940,0,3760,461.29
+ORD00983,Pamela Thomas,Fashion,Jeans,North,2024-12-10,4,806,0,3224,778.01
+ORD00984,Lynn Parks,Sports,Dumbbells,East,2024-03-30,4,102,10,408,72.73
+ORD00985,David Reilly,Electronics,Headphones,South,2024-11-18,4,688,10,2752,167.45
+ORD00986,Barbara French,Sports,Yoga Mat,West,2024-11-16,5,507,10,2535,755.44
+ORD00987,Diane Garcia,Electronics,Smartwatch,South,2024-12-13,3,454,15,1362,113.46
+ORD00988,William Miller,Beauty,Moisturizer,East,2024-02-13,2,791,5,1582,175.88
+ORD00989,Nicholas Torres,Sports,Yoga Mat,East,2024-11-09,3,159,5,477,108.55
+ORD00990,Melissa Waters,Sports,Football,West,2024-08-21,2,367,15,734,212.93
+ORD00991,Matthew Thompson,Beauty,Perfume,West,2025-01-06,2,654,0,1308,243.17
+ORD00992,Benjamin Holmes,Electronics,Smartwatch,West,2025-04-24,1,924,15,924,96.88
+ORD00993,Cathy Sims,Beauty,Perfume,West,2024-09-03,4,252,10,1008,207.72
+ORD00994,Amanda Allen,Sports,Dumbbells,West,2024-03-06,3,850,20,2550,533.3
+ORD00995,Brett Martin,Sports,Cricket Bat,North,2024-11-07,3,211,10,633,76.41
+ORD00996,Amy Mclean,Electronics,Smartphone,South,2024-02-13,4,751,15,3004,537.82
+ORD00997,Valerie Washington,Beauty,Perfume,West,2024-08-03,4,452,15,1808,466.49
+ORD00998,Kristine Clark,Home & Kitchen,Chair,South,2025-01-24,5,737,5,3685,1020.83
+ORD00999,Tina Hoffman,Sports,Cricket Bat,North,2024-04-14,1,669,20,669,47.86
+ORD01000,Andrew Washington,Home & Kitchen,Table Lamp,North,2024-08-12,5,698,0,3490,414.37
